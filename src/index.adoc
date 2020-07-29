@@ -1,0 +1,17 @@
+= vocab
+By Harsh Kapadia
+v1
+:favicon:   ./src/images/icon.svg
+:toc:		left
+
+== Abstract
+
+This web site contains some English vocabulary for https://www.ets.org/gre/[GRE].
+
+== Preface
+
+A good English vocabulary is immensely important for the GRE examination. Learning and keeping track of words is difficult, so the author, https://www.linkedin.com/in/harshgkapadia/[Harsh Kapadia], is using this web site as a track of the words that he is learning.
+
+This web site is a work in progress and is constantly updated! The web site source code can be found on https://github.com/HarshKapadia2/vocab[GitHub]. Do not hesitate to raise an https://github.com/HarshKapadia2/vocab/issues[issue] if there is any mistake/typo in the web site. Inputs and suggestions are appreciated and most welcome!
+
+The author, Harsh Kapadia, can be contacted via https://www.linkedin.com/in/harshgkapadia/[LinkedIn], https://twitter.com/harshgkapadia[Twitter] or e-mail (harshgkapadia@gmail.com).
