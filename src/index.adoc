@@ -20,6 +20,10 @@ The author, Harsh Kapadia, can be contacted via https://www.linkedin.com/in/hars
 
 include::./refs/g.adoc[]
 
+== O
+
+include::./refs/o.adoc[]
+
 == R
 
 include::./refs/r.adoc[]
