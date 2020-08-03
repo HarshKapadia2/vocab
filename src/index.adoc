@@ -15,3 +15,7 @@ A good English vocabulary is immensely important for the GRE examination. Learni
 This web site is a work in progress and is constantly updated! The web site source code can be found on https://github.com/HarshKapadia2/vocab[GitHub]. Do not hesitate to raise an https://github.com/HarshKapadia2/vocab/issues[issue] if there is any mistake/typo in the web site. Inputs and suggestions are appreciated and most welcome!
 
 The author, Harsh Kapadia, can be contacted via https://www.linkedin.com/in/harshgkapadia/[LinkedIn], https://twitter.com/harshgkapadia[Twitter] or e-mail (harshgkapadia@gmail.com).
+
+== V
+
+include::refs/v.adoc[]

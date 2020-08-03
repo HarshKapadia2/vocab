@@ -1,0 +1,1 @@
+include::../words/v/vicarious.adoc[]
