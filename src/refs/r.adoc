@@ -1,0 +1,1 @@
+include::../words/r/rationalize.adoc[]
