@@ -27,3 +27,8 @@ include::./refs/r.adoc[]
 == V
 
 include::./refs/v.adoc[]
+
+'''
+
+[quote, Selena Gomez]
+Kindness always wins.
