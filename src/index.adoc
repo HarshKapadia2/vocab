@@ -40,6 +40,10 @@ include::./refs/p.adoc[]
 
 include::./refs/r.adoc[]
 
+== S
+
+include::./refs/s.adoc[]
+
 == V
 
 include::./refs/v.adoc[]
