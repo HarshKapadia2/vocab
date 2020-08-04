@@ -48,6 +48,10 @@ include::./refs/s.adoc[]
 
 include::./refs/v.adoc[]
 
+== W
+
+include::./refs/w.adoc[]
+
 '''
 
 [quote, Selena Gomez]

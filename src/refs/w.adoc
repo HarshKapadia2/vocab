@@ -1,0 +1,1 @@
+include::../words/w/wanton.adoc[]
