@@ -16,6 +16,10 @@ This web site is a work in progress and is constantly updated! The web site sour
 
 The author, Harsh Kapadia, can be contacted via https://www.linkedin.com/in/harshgkapadia/[LinkedIn], https://twitter.com/harshgkapadia[Twitter] or e-mail (harshgkapadia@gmail.com).
 
+== A
+
+include::./refs/a.adoc[]
+
 == G
 
 include::./refs/g.adoc[]

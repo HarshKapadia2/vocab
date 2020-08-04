@@ -1,0 +1,1 @@
+include::../words/a/ascetic.adoc[]
