@@ -32,6 +32,10 @@ include::./refs/m.adoc[]
 
 include::./refs/o.adoc[]
 
+== P
+
+include::./refs/p.adoc[]
+
 == R
 
 include::./refs/r.adoc[]
