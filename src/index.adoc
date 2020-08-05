@@ -28,6 +28,10 @@ include::./refs/e.adoc[]
 
 include::./refs/g.adoc[]
 
+== I
+
+include::./refs/i.adoc[]
+
 == M
 
 include::./refs/m.adoc[]
