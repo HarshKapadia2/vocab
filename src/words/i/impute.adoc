@@ -1,0 +1,15 @@
+=== Impute
+
+==== Meaning
+
+* Attribute a bad habit or act to someone.
+
+==== Synonyms
+
+...
+
+==== Sentence
+
+* The link:index.html#_plaintiff[plaintiff] [.underline]#imputed# the defendant.
+
+'''
