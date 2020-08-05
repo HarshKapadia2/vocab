@@ -1,2 +1,3 @@
 include::../words/p/pander.adoc[]
+include::../words/p/plaintiff.adoc[]
 include::../words/p/podiatrist.adoc[]
