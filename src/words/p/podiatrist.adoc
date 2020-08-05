@@ -1,0 +1,15 @@
+=== Podiatrist
+
+==== Meaning
+
+* A Doctor who specializes in treating ailments of human feet.
+
+==== Synonyms
+
+* Chiropodist
+
+==== Sentence
+
+* A [.underline]#podiatrist# can treat a corn on your feet.
+
+'''
