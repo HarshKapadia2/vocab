@@ -1,1 +1,2 @@
+include::../words/s/scintillate.adoc[]
 include::../words/s/sublimate.adoc[]
