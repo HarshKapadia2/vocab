@@ -1,2 +1,3 @@
 include::../words/i/importune.adoc[]
 include::../words/i/impute.adoc[]
+include::../words/i/indolent.adoc[]
