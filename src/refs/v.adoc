@@ -1,1 +1,2 @@
+include::../words/v/vegetate.adoc[]
 include::../words/v/vicarious.adoc[]
