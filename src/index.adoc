@@ -24,6 +24,10 @@ include::./refs/a.adoc[]
 
 include::./refs/e.adoc[]
 
+== F
+
+include::./refs/f.adoc[]
+
 == G
 
 include::./refs/g.adoc[]
