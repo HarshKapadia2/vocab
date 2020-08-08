@@ -1,2 +1,3 @@
+include::../words/r/radical.adoc[]
 include::../words/r/rationalize.adoc[]
 include::../words/r/rusticate.adoc[]

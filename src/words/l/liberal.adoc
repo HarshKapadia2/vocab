@@ -13,4 +13,9 @@
 
 * Do not forget to apply sunscreen [.underline]#liberally# in Egypt to avoid sunburns!
 
+.Related
+****
+* link:index.html#_radical[Radical]
+****
+
 '''
