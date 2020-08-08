@@ -1,2 +1,3 @@
 include::../words/a/abhor.adoc[]
+include::../words/a/agnostic.adoc[]
 include::../words/a/ascetic.adoc[]
