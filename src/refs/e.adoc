@@ -1,2 +1,3 @@
 include::../words/e/effete.adoc[]
+include::../words/e/epicurean.adoc[]
 include::../words/e/expiate.adoc[]
