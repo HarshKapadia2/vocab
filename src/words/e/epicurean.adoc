@@ -4,6 +4,8 @@
 
 * A person believing that pleasure, happiness and luxury is the chief good.
 
+NOTE: Do not confuse epicurean with link:index.html#_epicure[epicure].
+
 ==== Sentence
 
 * [.underline]#Epicureans# are usually jolted back to the harsh reality of life.

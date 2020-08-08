@@ -1,0 +1,13 @@
+=== Epicure
+
+==== Meaning
+
+* One who enjoys high quality food and drinks.
+
+NOTE: Do not confuse epicure with link:index.html#_epicurean[epicurean].
+
+==== Sentence
+
+* Chefs are [.underline]#epicures#.
+
+'''
