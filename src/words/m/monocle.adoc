@@ -1,0 +1,11 @@
+=== Monocle
+
+==== Meaning
+
+* A lens for one eye.
+
+==== Sentence
+
+* German Generals used to wear [.underline]#monocles#.
+
+'''
