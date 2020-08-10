@@ -1,3 +1,4 @@
 include::../words/m/maudlin.adoc[]
+include::../words/m/misanthrope.adoc[]
 include::../words/m/misogamy.adoc[]
 include::../words/m/mulct.adoc[]
