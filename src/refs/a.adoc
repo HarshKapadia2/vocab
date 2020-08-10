@@ -1,4 +1,5 @@
 include::../words/a/abhor.adoc[]
 include::../words/a/agnostic.adoc[]
 include::../words/a/altruist.adoc[]
+include::../words/a/anthropology.adoc[]
 include::../words/a/ascetic.adoc[]
