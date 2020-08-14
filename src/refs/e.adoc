@@ -1,4 +1,5 @@
 include::../words/e/effete.adoc[]
+include::../words/e/egregious.adoc[]
 include::../words/e/epicure.adoc[]
 include::../words/e/epicurean.adoc[]
 include::../words/e/expiate.adoc[]
