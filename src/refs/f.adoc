@@ -1,1 +1,2 @@
 include::../words/f/foibles.adoc[]
+include::../words/f/futilitarian.adoc[]
