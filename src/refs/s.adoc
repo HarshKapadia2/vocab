@@ -1,2 +1,3 @@
 include::../words/s/scintillate.adoc[]
 include::../words/s/sublimate.adoc[]
+include::../words/s/sycophant.adoc[]
