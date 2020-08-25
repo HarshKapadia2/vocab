@@ -1,0 +1,11 @@
+=== Tyro
+
+==== Meaning
+
+* A beginner.
+
+==== Sentence
+
+* One should never make fun of a [.underline]#tyro#, as everyone starts out as a beginner.
+
+'''
