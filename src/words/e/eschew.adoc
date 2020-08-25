@@ -1,0 +1,16 @@
+=== Eschew
+
+==== Meaning
+
+* Stop doing something.
+* Avoid intentionally.
+
+==== Synonyms
+
+* Abrogate
+
+==== Sentence
+
+* India told Pakistan that there would be no talks between them until they [.underline]#eschewed# their terror activities and ceasefire violations.
+
+'''
