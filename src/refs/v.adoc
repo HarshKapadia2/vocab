@@ -1,3 +1,4 @@
 include::../words/v/vegetate.adoc[]
 include::../words/v/vicarious.adoc[]
 include::../words/v/virago.adoc[]
+include::../words/v/virtuoso.adoc[]
