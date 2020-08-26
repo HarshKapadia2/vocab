@@ -1,0 +1,15 @@
+=== Puritanical
+
+==== Meaning
+
+* Not believing in pleasure, but only in working hard and practising self-discipline.
+
+==== Synonyms
+
+* link:index.html#_ascetic[Ascetic]
+
+==== Sentence
+
+* He is very [.underline]#puritanical# about sex.
+
+'''
