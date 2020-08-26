@@ -1,2 +1,3 @@
+include::../words/f/fascism.adoc[]
 include::../words/f/foibles.adoc[]
 include::../words/f/futilitarian.adoc[]

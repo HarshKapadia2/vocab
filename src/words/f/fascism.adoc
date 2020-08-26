@@ -1,0 +1,11 @@
+=== Fascism
+
+==== Meaning
+
+* A political system based on a very powerful leader, state control, and being extremely proud of country and race, and in which political opposition is not allowed. (https://dictionary.cambridge.org/dictionary/english/fascism[Source])
+
+==== Sentence
+
+* A [.underline]#fascist# leader is a link:index.html#_chauvinist[chauvinist] and a dictator.
+
+'''
