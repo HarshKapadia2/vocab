@@ -1,5 +1,6 @@
 include::../words/c/chauvinist.adoc[]
 include::../words/c/circe.adoc[]
+include::../words/c/clairvoyant.adoc[]
 include::../words/c/conceited.adoc[]
 include::../words/c/condescending.adoc[]
 include::../words/c/coquette.adoc[]
