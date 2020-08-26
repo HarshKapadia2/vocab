@@ -1,0 +1,16 @@
+=== Connoisseur
+
+==== Meaning
+
+* A person who has a lot of knowledge in arts, food, women, drinks, etc...
+* A person with a fine taste.
+
+==== Synonyms
+
+* link:index.html#_virtuoso[Virtuoso]
+
+==== Sentence
+
+* He looked like the stereotypical [.underline]#connoisseur# at the art gallery in his formal coat with a wine glass in his hand.
+
+'''

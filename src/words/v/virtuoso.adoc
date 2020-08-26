@@ -4,6 +4,10 @@
 
 * A person skilled at something, especially when it comes to the fine arts like music, painting, etc...
 
+==== Synonyms
+
+* link:index.html#_connoisseur[Connoisseur]
+
 ==== Sentence
 
 * It is important for a [.underline]#virtuoso# to not be a link:index.html#_pedant[pedant].

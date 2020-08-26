@@ -5,6 +5,10 @@
 * Shows off knowledge.
 * Unnecessarily corrects petty mistakes.
 
+==== Synonyms
+
+* link:index.html#_fastidious[Fastidious]
+
 ==== Sentence
 
 * A less knowledgeable but humble person is better than a [.underline]#pedant#.
