@@ -1,2 +1,3 @@
 include::../words/o/obsequious.adoc[]
+include::../words/o/ostentatious.adoc[]
 include::../words/o/ostracize.adoc[]
