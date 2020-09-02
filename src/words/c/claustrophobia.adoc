@@ -1,0 +1,11 @@
+=== Claustrophobia
+
+==== Meaning
+
+* The fear of closed (confined) spaces or crowded places.
+
+==== Sentence
+
+* She is so [.underline]#claustrophobic# that she uses the stairs in a building rather than the lift to go up and down.
+
+'''
