@@ -1,0 +1,11 @@
+=== Acrophobia
+
+==== Meaning
+
+* A fear of heights.
+
+==== Sentence
+
+* Bunjee Jumping is an extremely scary activity for [.underline]#acrophobic# people.
+
+'''
