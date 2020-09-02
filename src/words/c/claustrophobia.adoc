@@ -4,6 +4,8 @@
 
 * The fear of closed (confined) spaces or crowded places.
 
+NOTE: This is the opposite/antonym of link:index.html#_agoraphobia[Agoraphobia].
+
 ==== Sentence
 
 * She is so [.underline]#claustrophobic# that she uses the stairs in a building rather than the lift to go up and down.
