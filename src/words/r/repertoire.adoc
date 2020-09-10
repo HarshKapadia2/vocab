@@ -1,0 +1,12 @@
+=== Repertoire
+
+==== Meaning
+
+* A stack of expertise that can be offered.
+* A list of dramas or music pieces that can be performed by a person or a group.
+
+==== Sentence
+
+* The Royal Shakespeare Company also have many modern plays in their [.underline]#repertoire#.
+
+'''
