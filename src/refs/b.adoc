@@ -1,0 +1,1 @@
+include::../words/b/barroom.adoc[]
