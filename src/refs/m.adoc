@@ -1,5 +1,6 @@
 include::../words/m/maudlin.adoc[]
 include::../words/m/martinet.adoc[]
+include::../words/m/meritocracy.adoc[]
 include::../words/m/misanthrope.adoc[]
 include::../words/m/misogamy.adoc[]
 include::../words/m/monocle.adoc[]
