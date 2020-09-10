@@ -98,5 +98,13 @@ include::./refs/w.adoc[]
 
 '''
 
+== Sources
+
+* https://dictionary.cambridge.org/[The Cambridge Dictionary]
+* https://www.merriam-webster.com/[The Merriam-Webster Dictionary]
+* https://www.amazon.com/30-Days-More-Powerful-Vocabulary/dp/067174349X[30 Days to a More Powerful Vocabulary]
+
+'''
+
 [quote, Selena Gomez]
 Kindness always wins.
