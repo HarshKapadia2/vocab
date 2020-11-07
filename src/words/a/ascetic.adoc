@@ -7,7 +7,7 @@
 ==== Synonyms
 
 * Austere
-* ink:index.html#_puritanical[Puritanical]
+* link:index.html#_puritanical[Puritanical]
 
 ==== Sentence
 
