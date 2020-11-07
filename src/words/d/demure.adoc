@@ -1,0 +1,17 @@
+
+=== Demure
+
+==== Meaning
+
+* Shy
+* Docile
+* Modest
+* Reserved
+
+NOTE: Do not confuse 'demure' with 'link:#_demur[demur]'.
+
+==== Sentence
+
+* Introverted people are [.underline]#demure#.
+
+'''

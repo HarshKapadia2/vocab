@@ -1,0 +1,15 @@
+
+=== Demur
+
+==== Meaning
+
+* Show reluctance.
+* Hesitate
+
+NOTE: Do not confuse 'demur' with 'link:#_demure[demure]'.
+
+==== Sentence
+
+* "There isn't any too much room in this bungalow as it is," [.underline]#demurred# Mr. Pottle.
+
+'''

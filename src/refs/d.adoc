@@ -1,2 +1,4 @@
 include::../words/d/demagogue.adoc[]
+include::../words/d/demur.adoc[]
+include::../words/d/demure.adoc[]
 include::../words/d/dipsomaniac.adoc[]

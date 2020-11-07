@@ -3,6 +3,7 @@ By Harsh Kapadia
 v1
 :favicon:   ./src/images/icon.svg
 :toc:		left
+:icons:		font
 
 == Abstract
 
