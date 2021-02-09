@@ -4,7 +4,7 @@
 
 * The fear of closed (confined) spaces or crowded places.
 
-NOTE: This is the opposite/antonym of link:index.html#_agoraphobia[Agoraphobia].
+NOTE: This is the opposite/antonym of link:#_agoraphobia[Agoraphobia].
 
 ==== Sentence
 

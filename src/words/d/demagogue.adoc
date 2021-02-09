@@ -2,7 +2,7 @@
 
 ==== Meaning
 
-* link:index.html#_pander[Pandering] to the hatered and prejudices of people to satisfy one's ulterior motives.
+* link:#_pander[Pandering] to the hatered and prejudices of people to satisfy one's ulterior motives.
 
 ==== Sentence
 

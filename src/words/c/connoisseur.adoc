@@ -7,7 +7,7 @@
 
 ==== Synonyms
 
-* link:index.html#_virtuoso[Virtuoso]
+* link:#_virtuoso[Virtuoso]
 
 ==== Sentence
 

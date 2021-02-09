@@ -7,7 +7,7 @@
 
 ==== Synonyms
 
-* link:index.hrml#_jingoist[Jingoist]
+* link:#_jingoist[Jingoist]
 
 ==== Sentence
 

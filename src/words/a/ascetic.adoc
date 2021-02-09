@@ -7,10 +7,10 @@
 ==== Synonyms
 
 * Austere
-* link:index.html#_puritanical[Puritanical]
+* link:#_puritanical[Puritanical]
 
 ==== Sentence
 
-* He lived the life of an [.underline]#ascetic#, as he link:index.html#_abhor[abhorred] self-indulgence and luxury.
+* He lived the life of an [.underline]#ascetic#, as he link:#_abhor[abhorred] self-indulgence and luxury.
 
 '''

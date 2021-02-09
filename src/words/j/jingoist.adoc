@@ -6,10 +6,10 @@
 
 ==== Synonyms
 
-* link:index.hrml#_chauvinist[Chauvinist]
+* link:#_chauvinist[Chauvinist]
 
 ==== Sentence
 
-* A [.underline]#jingoist# and a link:index.hrml#_chauvinist[chauvinist] can be the best of friends.
+* A [.underline]#jingoist# and a link:#_chauvinist[chauvinist] can be the best of friends.
 
 '''

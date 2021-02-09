@@ -7,7 +7,7 @@
 
 ==== Synonyms
 
-* link:index.html#_pedant[Pedant]
+* link:#_pedant[Pedant]
 
 ==== Sentence
 

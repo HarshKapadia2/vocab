@@ -11,6 +11,6 @@
 
 ==== Sentence
 
-* A link:index.html_pedant[pedant] is [.underline]#ostentatious# about their learning.
+* A link:#_pedant[pedant] is [.underline]#ostentatious# about their learning.
 
 '''

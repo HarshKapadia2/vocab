@@ -4,7 +4,7 @@
 
 * A person believing that pleasure, happiness and luxury is the chief good.
 
-NOTE: Do not confuse epicurean with link:index.html#_epicure[epicure].
+NOTE: Do not confuse epicurean with link:#_epicure[epicure].
 
 ==== Sentence
 

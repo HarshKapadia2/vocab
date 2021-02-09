@@ -13,6 +13,6 @@
 
 ==== Sentence
 
-* link:index.html#_chauvinist[Chauvinists] go to [.underline]#ludicrous# extremes to justify themselves.
+* link:#_chauvinist[Chauvinists] go to [.underline]#ludicrous# extremes to justify themselves.
 
 '''

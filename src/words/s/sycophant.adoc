@@ -6,6 +6,6 @@
 
 ==== Synonyms
 
-* link:index.html#_obsequious[Obsequious]
+* link:#_obsequious[Obsequious]
 
 '''

@@ -6,10 +6,10 @@
 
 ==== Synonyms
 
-* link:index.html#_connoisseur[Connoisseur]
+* link:#_connoisseur[Connoisseur]
 
 ==== Sentence
 
-* It is important for a [.underline]#virtuoso# to not be a link:index.html#_pedant[pedant].
+* It is important for a [.underline]#virtuoso# to not be a link:#_pedant[pedant].
 
 '''

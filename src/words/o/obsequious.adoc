@@ -7,7 +7,7 @@
 ==== Synonym
 
 * Fawning
-* link:index.html#_sycophant[Sycophant]
+* link:#_sycophant[Sycophant]
 
 ==== Sentence
 

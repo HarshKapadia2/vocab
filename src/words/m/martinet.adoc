@@ -8,6 +8,6 @@
 ==== Synonyms
 
 * Punctilious
-* link:index.html#_pedant[Pedant]
+* link:#_pedant[Pedant]
 
 '''

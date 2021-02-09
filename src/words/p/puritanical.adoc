@@ -6,7 +6,7 @@
 
 ==== Synonyms
 
-* link:index.html#_ascetic[Ascetic]
+* link:#_ascetic[Ascetic]
 
 ==== Sentence
 

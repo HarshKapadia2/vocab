@@ -6,6 +6,6 @@
 
 ==== Sentence
 
-* A [.underline]#fascist# leader is a link:index.html#_chauvinist[chauvinist] and a dictator.
+* A [.underline]#fascist# leader is a link:#_chauvinist[chauvinist] and a dictator.
 
 '''
