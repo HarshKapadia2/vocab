@@ -1,7 +1,7 @@
 = vocab
 By Harsh Kapadia
 v1
-:favicon:   ./src/static/img/icon.svg
+:favicon:   ./static/img/favicon.ico
 :toc:		left
 :icons:		font
 :docinfo:   shared
