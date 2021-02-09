@@ -1,9 +1,10 @@
 = vocab
 By Harsh Kapadia
 v1
-:favicon:   ./src/images/icon.svg
+:favicon:   ./src/static/img/icon.svg
 :toc:		left
 :icons:		font
+:docinfo:   shared
 
 == Abstract
 
@@ -109,3 +110,13 @@ include::./refs/w.adoc[]
 
 [quote, Selena Gomez]
 Kindness always wins.
+
+++++
+	<div class="pwa-install-div hidden">
+		<div id="pwa-install-text">Ready for offline use!</div>
+		<button id="pwa-install-btn">Install</button>
+		<button id="pwa-install-dismiss">
+			<img src="static/img/clear_cross.svg" alt="X">
+		</button>
+	</div>
+++++
