@@ -11,7 +11,7 @@
 
 .Related
 ****
-* link:index.html#_radical[Radical]
+* link:#_radical[Radical]
 ****
 
 '''

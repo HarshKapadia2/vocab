@@ -6,6 +6,6 @@
 
 ==== Sentence
 
-* The link:index.html#_plaintiff[plaintiff] [.underline]#imputed# the defendant.
+* The link:#_plaintiff[plaintiff] [.underline]#imputed# the defendant.
 
 '''
