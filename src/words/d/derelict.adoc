@@ -1,0 +1,18 @@
+=== Derelict
+
+==== Meaning
+
+* Lacking a sense of duty.
+* Voluntarily abandoning something.
+* A homeless social misfit.
+
+==== Synonyms
+
+* Dilapidated
+* link:#_vagrant[Vagrant]
+
+==== Sentences
+
+* The town's [.underline]#derelict# was ransacking the garbage can for scraps.
+
+'''

@@ -7,6 +7,6 @@
 
 ==== Sentence
 
-* Once Harish Salve produced the evidence in front of the court, the defendants arguments became [.underline]#untenable#.
+* Once Harish Salve produced the evidence in front of the court, the defendant's arguments became [.underline]#untenable#.
 
 '''
