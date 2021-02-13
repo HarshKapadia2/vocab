@@ -1,0 +1,11 @@
+=== Treatise
+
+==== Meaning
+
+* An in-depth formal piece written on a subject.
+
+==== Sentences
+
+* His [.underline]#treatise# on the psychology of the human mind was received with a lot of praise.
+
+'''

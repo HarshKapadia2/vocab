@@ -4,6 +4,10 @@
 
 * Lazy
 
+==== Synonyms
+
+* link:#_torpor[Torpor]
+
 ==== Sentence
 
 * '[.underline]#Indolent# hustle' is an oxymoron.

@@ -1,0 +1,12 @@
+=== Cataclysmic
+
+==== Meaning
+
+* A sudden violent change causing massive destruction.
+
+==== Sentences
+
+* The hurricane was [.underline]#cataclysmic#.
+* These countries are on the brink of [.underline]#cataclysmic# famine.
+
+'''

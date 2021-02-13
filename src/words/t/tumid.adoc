@@ -1,0 +1,15 @@
+=== Tumid
+
+==== Meaning
+
+* A part of the body that is swollen/distended.
+
+==== Synonyms
+
+* link:#_turgid[Turgid]
+
+==== Sentences
+
+* The doctor noted the [.underline]#tumid# abdomen of the child, which was a sign of malnourishment.
+
+'''

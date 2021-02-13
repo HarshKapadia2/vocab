@@ -1,0 +1,19 @@
+=== Turbid
+
+==== Meaning
+
+* Translucent due to particles in the solution.
+
+NOTE: Do not confuse 'turbid' with 'link:#_turgid[turgid]'.
+
+==== Synonyms
+
+* Cloudy
+* Muddy
+* Murky
+
+==== Sentences
+
+* The chemical reaction caused a [.underline]#turbid# white solution to form in the test tube.
+
+'''

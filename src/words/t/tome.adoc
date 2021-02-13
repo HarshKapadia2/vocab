@@ -1,0 +1,11 @@
+=== Tome
+
+==== Meaning
+
+* Large, heavy book.
+
+==== Sentences
+
+* She has written several weighty [.underline]#tomes# on the subject.
+
+'''

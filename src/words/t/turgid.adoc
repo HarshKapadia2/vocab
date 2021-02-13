@@ -1,0 +1,19 @@
+=== Turgid
+
+==== Meaning
+
+* A speech or writing that is boring and serious.
+* Swollen and firm.
+* Some liquid that does not flow easily.
+
+NOTE: Do not confuse 'turgid' with 'link:#_turbid[turbid]'.
+
+==== Synonyms
+
+* link:#_tumid[Tumid]
+
+==== Sentences
+
+* Teachers should take efforts to make their subject a little less [.underline]#turgid#.
+
+'''
