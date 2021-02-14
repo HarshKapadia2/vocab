@@ -11,6 +11,6 @@
 
 ==== Sentences
 
-* The hostile and [.underline]#untoward# crowd did not let the speaker convey his point.
+* The hostile and [.underline]#untoward# crowd did not let the speaker convey their point.
 
 '''

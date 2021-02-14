@@ -1,0 +1,18 @@
+=== Suppliant
+
+==== Meaning
+
+* Humbly imploring
+
+NOTE: Do not confuse 'suppliant' with 'link:#_supplant[supplant]'.
+
+==== Synonyms
+
+* Beseeching
+* link:#_importune[Importune]
+
+==== Sentences
+
+* The [.underline]#suppliant# bully pleaded with the teacher for a chance to improve themselves.
+
+'''

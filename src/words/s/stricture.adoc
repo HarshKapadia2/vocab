@@ -1,0 +1,20 @@
+=== Stricture
+
+==== Meaning
+
+* Something that restrains or limits.
+* Abnormal narrowing of a bodily passage.
+* An adverse criticism.
+
+==== Synonyms
+
+* Censure
+* Rebuke
+* Reprimand
+
+==== Sentences
+
+* Every religion has its [.underline]#strictures# on the morals of contemporary society.
+* They have broken nearly every [.underline]#stricture# of the pact.
+
+'''

@@ -1,0 +1,18 @@
+=== Supine
+
+==== Meaning
+
+* Lying on the back with the face upwards.
+* Marked by laziness.
+
+==== Synonyms
+
+* link:#_indolent[Indolent]
+* link:#_torpor[Torpor]
+
+==== Sentences
+
+* Selena loves sleeping in a [.underline]#supine# position.
+* Most children feel [.underline]#supine# during their holidays.
+
+'''

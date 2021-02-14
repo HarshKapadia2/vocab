@@ -6,6 +6,6 @@
 
 ==== Sentences
 
-* The speaker spoke very well, with his [.underline]#undulating# speech making people cry and laugh.
+* The emotionally [.underline]#undulating# speech made people laugh and cry.
 
 '''

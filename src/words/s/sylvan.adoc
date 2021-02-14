@@ -1,0 +1,12 @@
+=== Sylvan
+
+==== Meaning
+
+* Relating to or characteristic of the woods or forest.
+* Living or located in the woods or forest.
+
+==== Sentences
+
+* The bungalow is located on [.underline]#sylvan# land.
+
+'''

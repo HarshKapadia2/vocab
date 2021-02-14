@@ -1,0 +1,18 @@
+=== Stultify
+
+==== Meaning
+
+* To impair.
+* To make ineffective.
+* To reduce to uselessness.
+
+==== Synonyms
+
+* Negate
+* link:#_disparage[Disparage]
+
+==== Sentences
+
+* During the pandemic, certain aspects of education have been [.underline]#stultified# by online classes.
+
+'''

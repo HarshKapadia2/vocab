@@ -1,0 +1,15 @@
+=== Subsume
+
+==== Meaning
+
+* To include something under a larger characteristic.
+
+==== Synonyms
+
+* Encompass
+
+==== Sentences
+
+* Black, yellow and blue are [.underline]#subsumed# under the classification of 'colours'.
+
+'''

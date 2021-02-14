@@ -1,0 +1,12 @@
+=== SYllogism
+
+==== Meaning
+
+* Deductive reasoning
+* A deductive scheme of a formal argument consisting of a major and a minor premise and a conclusion. (ie, if A = B and B = C, then A = C.)
+
+==== Sentences
+
+* A good example of [.underline]#syllogism# is 'Every virtue is laudable; kindness is a virtue; therefore kindness is laudable'.
+
+'''

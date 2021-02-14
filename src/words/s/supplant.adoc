@@ -1,0 +1,18 @@
+=== Supplant
+
+==== Meaning
+
+* To replace.
+
+NOTE: Do not confuse 'supplant' with 'link:#_suppliant[suppliant]'.
+
+==== Synonyms
+
+* Supersede
+* Substitute
+
+==== Sentences
+
+* The out of form player was [.underline]#supplanted# by an in form player.
+
+'''
