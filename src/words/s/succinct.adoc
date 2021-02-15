@@ -1,0 +1,15 @@
+=== Succinct
+
+==== Meaning
+
+* Precise expression without wasted words.
+
+==== Synonyms
+
+* Concise
+
+==== Sentences
+
+* The [.underline]#succinct# and elegant manner in which he spoke really impressed the judge.
+
+'''

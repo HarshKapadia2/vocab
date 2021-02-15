@@ -8,6 +8,7 @@ NOTE: Do not confuse 'supplant' with 'link:#_suppliant[suppliant]'.
 
 ==== Synonyms
 
+* Lieu
 * Supersede
 * Substitute
 

@@ -1,2 +1,3 @@
 include::../words/j/jingoist.adoc[]
 include::../words/j/judas.adoc[]
+include::../words/j/juxtapose.adoc[]

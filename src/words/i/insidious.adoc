@@ -1,0 +1,12 @@
+=== Insidious
+
+==== Meaning
+
+* A gradual and cumulative effect.
+
+==== Sentences
+
+* Cancer is an [.underline]#insidious# disease.
+* The power of Compound Interest is [.underline]#insidious#.
+
+'''

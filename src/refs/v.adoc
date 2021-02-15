@@ -1,6 +1,8 @@
 include::../words/v/vagrant.adoc[]
 include::../words/v/vegetate.adoc[]
 include::../words/v/vicarious.adoc[]
+include::../words/v/vindicate.adoc[]
+include::../words/v/vindictive.adoc[]
 include::../words/v/virago.adoc[]
 include::../words/v/virtuoso.adoc[]
 include::../words/v/vitiate.adoc[]
