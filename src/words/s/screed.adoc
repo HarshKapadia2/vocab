@@ -1,0 +1,13 @@
+=== Screed
+
+==== Meaning
+
+* Lengthy discourse.
+* A ranting piece of writing.
+
+==== Sentences
+
+* In her [.underline]#screed#, she blamed Emily for her problems.
+* The journalist wrote a [.underline]#screed# against Felix just to generate clicks on their article.
+
+'''

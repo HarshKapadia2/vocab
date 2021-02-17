@@ -1,0 +1,11 @@
+=== Assiduous
+
+==== Meaning
+
+* Showing great care, attention and effort.
+
+==== Sentences
+
+* Harsh pays [.underline]#assiduous# attention to his GitHub repositories.
+
+'''

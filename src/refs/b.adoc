@@ -1,1 +1,3 @@
 include::../words/b/barroom.adoc[]
+include::../words/b/bastille.adoc[]
+include::../words/b/burgeoning.adoc[]

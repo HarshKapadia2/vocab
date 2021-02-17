@@ -1,2 +1,4 @@
+include::../words/l/lascivious.adoc[]
+include::../words/l/lewd.adoc[]
 include::../words/l/liberal.adoc[]
 include::../words/l/ludicrous.adoc[]

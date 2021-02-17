@@ -1,5 +1,6 @@
 include::../words/i/importune.adoc[]
 include::../words/i/imbue.adoc[]
+include::../words/i/impugn.adoc[]
 include::../words/i/impute.adoc[]
 include::../words/i/indict.adoc[]
 include::../words/i/indolent.adoc[]

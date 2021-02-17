@@ -1,0 +1,16 @@
+=== Sui generis
+
+==== Meaning
+
+* Constituting a class alone.
+
+==== Synonyms
+
+* Unique
+* Peculiar
+
+==== Sentences
+
+* Steven Smith is a [.underline]#sui generis# batsman.
+
+'''

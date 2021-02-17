@@ -4,7 +4,7 @@
 
 * Free someone from allegation or blame.
 
-NOTE: Do not confuse 'vindicate' with 'link:#vindictive[vindictive]'.
+NOTE: Do not confuse 'vindicate' with 'link:#_vindictive[vindictive]'.
 
 ==== Synonyms
 
@@ -13,6 +13,6 @@ NOTE: Do not confuse 'vindicate' with 'link:#vindictive[vindictive]'.
 
 ==== Sentences
 
-* [.underline]##
+* Dinah gave her account in front of the court to help [.underline]#vindicate# Camila.
 
 '''
