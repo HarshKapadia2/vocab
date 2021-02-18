@@ -1,11 +1,14 @@
-const cacheName = "v3";
+const cacheName = "v5";
 const cacheAssets = [
-	"./",
-	"./index.html",
-	"./static/css/pwa_install.css",
-	"./static/js/main.js",
-	"./static/img/favicon.ico",
-	"./static/img/clear_cross.svg"
+	"/",
+	"/index.html",
+	"/static/css/pwa_install.css",
+	"/static/css/back_to_top_btn.css",
+	"/static/js/pwa_install.js",
+	"/static/js/back_to_top_btn.js",
+	"/static/img/favicon.ico",
+	"/static/img/clear_cross.svg",
+	"/static/img/up_arrow.svg"
 ];
 
 self.addEventListener
