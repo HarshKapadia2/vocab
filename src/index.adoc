@@ -127,4 +127,6 @@ Kindness always wins.
 			<img src="static/img/clear_cross.svg" alt="X">
 		</button>
 	</div>
+
+	<button class="back-to-top-btn hidden"><img src="static/img/up_arrow.svg" alt="Top"></button>
 ++++
