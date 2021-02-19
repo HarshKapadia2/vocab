@@ -1,0 +1,19 @@
+=== Sedulous
+
+==== Meaning
+
+* Involving or accomplished with careful perseverance.
+
+==== Synonyms
+
+* link:#_assiduous[Assiduous]
+* Diligent
+* Industrious
+* Engaged
+* Busy
+
+==== Sentences
+
+* Selena was a [.underline]#sedulous# student.
+
+'''

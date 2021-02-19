@@ -1,0 +1,11 @@
+=== Astute
+
+==== Meaning
+
+* Able to understand a situation quickly and see how to take advantage of it.
+
+==== Sentences
+
+* Arun Jaitley was a very knowledgeable and [.underline]#astute# politician.
+
+'''

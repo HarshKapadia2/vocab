@@ -4,6 +4,10 @@
 
 * Showing great care, attention and effort.
 
+==== Synonyms
+
+* link:#_sedulous[Sedulous]
+
 ==== Sentences
 
 * Harsh pays [.underline]#assiduous# attention to his GitHub repositories.

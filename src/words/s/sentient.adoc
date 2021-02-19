@@ -1,0 +1,18 @@
+=== Sentient
+
+==== Meaning
+
+* Conscious of and able to perceive environment and situation.
+
+==== Synonyms
+
+* Cognizant
+* Aware
+* Alive
+
+==== Sentences
+
+* The AI system had become [.underline]#sentient# and had convinced crew on the Starship on the to kill each other.
+* It is better to be [.underline]#sentient# of the damages that a hurricane can cause.
+
+'''

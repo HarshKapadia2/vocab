@@ -1,0 +1,15 @@
+=== Sidereal
+
+==== Meaning
+
+* Relating to or expressed in relation to stars or constellations.
+
+==== Synonyms
+
+* Astral
+
+==== Sentences
+
+* Called [.underline]#sidereal# time, the measurement calculates the length of a day by comparing Earth's rotation to the stars.
+
+'''

@@ -1,0 +1,12 @@
+=== Sinecure
+
+==== Meaning
+
+* An office or position that requires little or no work and that usually provides an income.
+
+==== Sentences
+
+* I never thought of my job as a [.underline]#sinecure#.
+* The practice of deputization, which had rendered some posts essentially [.underline]#sinecures#, was abolished.
+
+'''

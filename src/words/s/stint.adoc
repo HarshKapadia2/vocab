@@ -1,0 +1,15 @@
+=== Stint
+
+==== Meaning
+
+* To be sparing or frugal.
+* A period of time spent at a particular activity.
+* Chore, task, assignment
+* To restrict with respect to a share or allowance.
+
+==== Sentences
+
+* He completed his [.underline]#stint# as a DJ at the local club.
+* It is better to [.underline]#stint# one's luxuries during financially lean times.
+
+'''

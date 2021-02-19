@@ -1,0 +1,16 @@
+=== Stentorian
+
+==== Meaning
+
+* Extremely loud
+
+==== Synonyms
+
+* Raucous
+* Thundering
+
+==== Sentences
+
+* The teacher chastised the children for their [.underline]#stentorian# conversation.
+
+'''
