@@ -1,0 +1,17 @@
+=== Recondite
+
+==== Meaning
+
+* Difficult or impossible for one of ordinary understanding or knowledge to comprehend.
+* Relating to or dealing with something little known or obscure.
+
+==== Synonyms
+
+* Profound
+* Arcane (little known)
+
+==== Sentences
+
+* His research work was a [.underline]#recondite# piece of work, which only experienced people could understand.
+
+'''
