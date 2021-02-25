@@ -1,0 +1,13 @@
+=== Statutory
+
+==== Meaning
+
+* Decided or controlled by law.
+
+NOTE: Do not confuse 'statutory' with 'link:#_salutary[salutary]'.
+
+==== Sentences
+
+* All movies have to be preceded by a [.underline]#statutory# warning about the link:#_salubrious[insalubrious] and carcinogenic nature of cigarettes.
+
+'''

@@ -1,0 +1,13 @@
+=== Escrow
+
+==== Meaning
+
+* A deed, a bond, money or a piece of property held in trust *by a third party* to be turned over to the grantee only upon fulfillment of a condition.
+
+NOTE: Do not confuse 'escrow' with 'mortgage'. Mortgage can be both escrow and non-escrow.
+
+==== Sentences
+
+* The buyers put their money in the builder's [.underline]#escrow# account.
+
+'''

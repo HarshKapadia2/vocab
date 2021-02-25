@@ -1,0 +1,20 @@
+=== Salutary
+
+==== Meaning
+
+* Producing a beneficial effect.
+* Promoting health.
+
+NOTE: Do not confuse 'salutary' with 'link:#_statutory[statutory]'.
+
+==== Synonyms
+
+* link:#_salubrious[Salubrious]
+* Benignant
+
+==== Sentences
+
+* The accident should be a [.underline]#salutary# lesson to be more careful.
+* Being a good person is [.underline]#salutary# for oneself.
+
+'''

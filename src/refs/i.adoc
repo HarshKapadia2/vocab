@@ -1,3 +1,4 @@
+include::../words/i/icky.adoc[]
 include::../words/i/importune.adoc[]
 include::../words/i/imbue.adoc[]
 include::../words/i/impugn.adoc[]
