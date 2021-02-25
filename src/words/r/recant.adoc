@@ -1,0 +1,17 @@
+=== Recant
+
+==== Meaning
+
+* To withdraw or link:#_repudiate[repudiate] a statement or belief formally and publicly.
+
+==== Synonyms
+
+* Revoke
+* Renounce
+* link:#_renege[Renege]
+
+==== Sentences
+
+* She had to [.underline]#recant# her words after their loss.
+
+'''

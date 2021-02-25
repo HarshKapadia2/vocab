@@ -1,0 +1,11 @@
+=== Rococo
+
+==== Meaning
+
+* Excessively ornate or intricate.
+
+==== Sentences
+
+* The arches of the Church were built in a [.underline]#rococo# style.
+
+'''

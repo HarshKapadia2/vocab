@@ -1,0 +1,13 @@
+=== Rubric
+
+==== Meaning
+
+* An established rule or guideline.
+* Title
+
+==== Sentences
+
+* The [.underline]#rubrics# at the beginning of the chapters are intended to be humorous.
+* The assignment [.underline]#rubric# gave a lot of freedom to students to come up with innovative solutions.
+
+'''

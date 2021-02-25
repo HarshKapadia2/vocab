@@ -1,0 +1,18 @@
+=== Relegate
+
+==== Meaning
+
+* To assign something to someone.
+* To send into exile.
+
+==== Synonyms
+
+* Consign
+* Entrust
+
+==== Sentences
+
+* The bill has been [.underline]#relegated# to the committee for discussion.
+* The leader [.underline]#relegated# the work to her teammates.
+
+'''

@@ -1,6 +1,8 @@
+include::../words/s/salacious.adoc[]
 include::../words/s/salubrious.adoc[]
 include::../words/s/salutary.adoc[]
 include::../words/s/saturnine.adoc[]
+include::../words/s/sardonic.adoc[]
 include::../words/s/sartorial.adoc[]
 include::../words/s/scintillate.adoc[]
 include::../words/s/screed.adoc[]
