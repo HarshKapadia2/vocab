@@ -5,6 +5,10 @@
 * Lengthy discourse.
 * A ranting piece of writing.
 
+==== Synonyms
+
+* link:#_diatribe[Diatribe]
+
 ==== Sentences
 
 * In her [.underline]#screed#, she blamed Emily for her problems.

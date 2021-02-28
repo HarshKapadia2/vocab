@@ -46,6 +46,10 @@ include::./refs/f.adoc[]
 
 include::./refs/g.adoc[]
 
+== H
+
+include::./refs/h.adoc[]
+
 == I
 
 include::./refs/i.adoc[]

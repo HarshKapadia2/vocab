@@ -1,0 +1,11 @@
+=== Anechoic
+
+==== Meaning
+
+* Something which is free from echoes and reverberations.
+
+==== Sentences
+
+* A cent percent [.underline]#anechoic# chamber is impossible to build.
+
+'''

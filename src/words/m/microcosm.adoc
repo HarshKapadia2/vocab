@@ -1,0 +1,12 @@
+=== Microcosm
+
+==== Meaning
+
+* A little world.
+* A small, representative system having analogies to a larger system.
+
+==== Sentences
+
+* The village is a [.underline]#microcosm# of the whole country.
+
+'''

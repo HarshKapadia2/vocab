@@ -1,1 +1,2 @@
+include::../words/k/ken.adoc[]
 include::../words/k/kleptomaniac.adoc[]

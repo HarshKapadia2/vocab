@@ -1,0 +1,13 @@
+=== Ensconced
+
+==== Meaning
+
+* Shelter, conceal
+* Establish, settle
+
+==== Sentences
+
+* The sculpture is safely [.underline]#ensconced# behind glass.
+* She [.underline]#ensconced# himself in front of the television.
+
+'''

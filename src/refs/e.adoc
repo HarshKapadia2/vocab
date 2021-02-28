@@ -1,5 +1,8 @@
 include::../words/e/effete.adoc[]
 include::../words/e/egregious.adoc[]
+include::../words/e/emancipation.adoc[]
+include::../words/e/embroiled.adoc[]
+include::../words/e/ensconced.adoc[]
 include::../words/e/epicure.adoc[]
 include::../words/e/epicurean.adoc[]
 include::../words/e/expatriate.adoc[]

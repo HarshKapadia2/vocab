@@ -3,9 +3,11 @@
 ==== Meaning
 
 * Someone who does not know or believes that it is impossible to know if God exists.
+* Something that is not designed for or preferring a particular device or system.
 
 ==== Sentence
 
 * An [.underline]#agnostic# person can be both, an atheist or a theist.
+* Git is an Operating System agnostic software tool.
 
 '''
