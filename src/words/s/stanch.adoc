@@ -4,6 +4,10 @@
 
 * To check or stop the flowing of something.
 
+==== Synonyms
+
+* link:#_stymie[Stymie]
+
 ==== Sentences
 
 * Vibranium is so strong that it can [.underline]#stanch# a missile.

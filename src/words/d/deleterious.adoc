@@ -1,0 +1,11 @@
+=== Deleterious
+
+==== Meaning
+
+* Something that is harmful often in a subtle or unexpected way.
+
+==== Sentences
+
+* Cancer is an link:#_insidious[insidious] disease and its [.underline]#deleterious# effects on other organs are noticed quite late as well.
+
+'''

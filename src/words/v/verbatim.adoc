@@ -1,0 +1,16 @@
+=== Verbatim
+
+==== Meaning
+
+* In the exact words.
+* Word for word.
+
+==== Synonyms
+
+* Ad verbum
+
+==== Sentences
+
+* The quote is taken [.underline]#verbatim# from a teacher.
+
+'''

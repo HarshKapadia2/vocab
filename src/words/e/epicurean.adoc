@@ -4,7 +4,11 @@
 
 * A person believing that pleasure, happiness and luxury is the chief good.
 
-NOTE: Do not confuse epicurean with link:#_epicure[epicure].
+[NOTE]
+====
+* Do not confuse epicurean with link:#_epicure[epicure].
+* Do not confuse 'hedonism' with 'link:#_epicure[Epicureanism]'. Hedonism has a negative connotation, while Epicureanism is positive. 
+====
 
 ==== Sentence
 

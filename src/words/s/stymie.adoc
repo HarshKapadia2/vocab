@@ -1,0 +1,15 @@
+=== Stymie
+
+==== Meaning
+
+* To present an obstacle to.
+
+==== Synonyms
+
+* link:#_stanch[Stanch]
+
+==== Sentences
+
+* Some cellular mechanisms[.underline]#stymie# genetic changes to prevent mutation.
+
+'''

@@ -1,0 +1,11 @@
+=== Empirical
+
+==== Meaning
+
+* Relying on experience, experimentation or observation alone often without due regard for system and theory.
+
+==== Sentences
+
+* The [.underline]#Empirical# Gas Laws have been based solely on observation rather making an attempt to define the theoretical reason these relationships may exist and have thus been named so.
+
+'''

@@ -1,3 +1,4 @@
+include::../words/p/pagan.adoc[]
 include::../words/p/pander.adoc[]
 include::../words/p/partisanship.adoc[]
 include::../words/p/pedant.adoc[]

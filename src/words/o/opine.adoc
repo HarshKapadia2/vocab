@@ -1,0 +1,15 @@
+=== Opine
+
+==== Meaning
+
+* To express or state opinions.
+
+==== Synonyms
+
+* Weigh in
+
+==== Sentences
+
+* One can [.underline]#opine# about any subject they like.
+
+'''

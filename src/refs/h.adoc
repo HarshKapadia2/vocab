@@ -1,2 +1,3 @@
+include::../words/h/hedonism.adoc[]
 include::../words/h/hegemonic.adoc[]
 include::../words/h/hitherto.adoc[]
