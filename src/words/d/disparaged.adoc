@@ -9,6 +9,7 @@
 * Undervalue
 * Underrate
 * Vilify
+* link:#_decry[Decry]
 
 ==== Sentences
 

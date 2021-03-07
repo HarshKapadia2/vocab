@@ -1,0 +1,16 @@
+=== Penitentiary
+
+==== Meaning
+
+* An institution for public offenders.
+
+==== Synonyms
+
+* link:#_bastille[Bastille]
+* Prison
+
+==== Sentences
+
+* She was given a [.underline]#penitentiary# sentence for assault.
+
+'''

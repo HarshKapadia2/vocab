@@ -1,0 +1,19 @@
+=== Ad hoc
+
+==== Meaning
+
+* Doing something for the case or task at hand without thinking about wider application or consequences.
+* Something formed or used for specific immediate needs or problems.
+
+==== Synonyms
+
+* Extempore
+* Impromptu
+* Unpremeditated
+
+==== Sentences
+
+* She was link:#_astute[astute] enough to quickly conjure up an [.underline]#ad hoc# solution to the problem.
+* The [.underline]#ad hoc# set pieces looked almost the same as the original ones that got destroyed in the fire.
+
+'''

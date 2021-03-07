@@ -1,0 +1,13 @@
+=== Delineate
+
+==== Meaning
+
+* Describe or portray in detail.
+* To mark the outline of something.
+
+==== Sentences
+
+* The municipal corporation put up lights [.underline]#delineating# the street.
+* The author's [.underline]#delineation# of Camila in the book 'Yellow' is very impressive!
+
+'''

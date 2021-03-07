@@ -1,0 +1,17 @@
+=== Fidelity
+
+==== Meaning
+
+* The quality or state of being faithful. (Antonym of 'infidelity'.)
+* Accuracy in details.
+* The degree to which an electronic device accurately produces its effect.
+
+==== Synonyms
+
+* Steadfast (loyal)
+
+==== Sentences
+
+* The director insisted on total [.underline]#fidelity# to the book.
+
+'''

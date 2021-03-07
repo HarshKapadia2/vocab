@@ -1,0 +1,15 @@
+=== Visceral
+
+==== Meaning
+
+* Felt in or as if in the internal organs of the body.
+* Dealing with crude emotions.
+* Related to or located in the viscera.
+	** Viscera: Internal organs located in the trunk of the body, ie, heart, liver, intestines, etc.
+
+==== Sentences
+
+* When one's waist circumference is being measured, indirectly their [.underline]#visceral# fat is being measured.
+* It is a [.underline]#visceral# novel.
+
+'''

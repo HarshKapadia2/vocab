@@ -1,5 +1,7 @@
 include::../words/d/dearth.adoc[]
+include::../words/d/decry.adoc[]
 include::../words/d/defunct.adoc[]
+include::../words/d/delineate.adoc[]
 include::../words/d/demagogue.adoc[]
 include::../words/d/demur.adoc[]
 include::../words/d/demure.adoc[]

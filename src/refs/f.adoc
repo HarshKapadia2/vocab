@@ -1,5 +1,6 @@
 include::../words/f/fascism.adoc[]
 include::../words/f/fastidious.adoc[]
 include::../words/f/faustian.adoc[]
+include::../words/f/fidelity.adoc[]
 include::../words/f/foibles.adoc[]
 include::../words/f/futilitarian.adoc[]

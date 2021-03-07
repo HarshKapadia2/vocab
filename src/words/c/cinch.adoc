@@ -1,0 +1,18 @@
+=== Cinch
+
+==== Meaning
+
+* A thing done with ease.
+* A tight grip.
+* Something certain to happen.
+
+==== Synonyms
+
+* Pushover
+* Breeze
+
+==== Sentences
+
+* Getting into Web Development is a [.underline]#cinch#.
+
+'''

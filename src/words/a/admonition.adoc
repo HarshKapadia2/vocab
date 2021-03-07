@@ -1,0 +1,16 @@
+=== Admonition
+
+==== Meaning
+
+* A counsel or warning against fault or oversight.
+* A gentle or friendly rebuke.
+
+==== Synonyms
+
+* Admonishment
+
+==== Sentences
+
+* Asciidoctor, a Static Site Generator, has great [.underline]#admonition# icons for warnings, tips, general notes, cautionary notes and important notes!
+
+'''
