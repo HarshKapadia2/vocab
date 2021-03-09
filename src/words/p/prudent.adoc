@@ -8,6 +8,10 @@
 * Avoiding risks
 * Cautious
 
+==== Synonyms
+
+* link:#_provident[Provident]
+
 ==== Sentence
 
 * It is [.underline]#prudent# to read any contract thoroughly and get a lawyer to go through it as well.

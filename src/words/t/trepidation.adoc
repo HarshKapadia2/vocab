@@ -6,6 +6,6 @@
 
 ==== Sentences
 
-* Rohit did not let the [.underline]#trepidation# of the Cricket world cup final was get to him.
+* Rohit did not let the [.underline]#trepidation# of the Cricket world cup final get to him.
 
 '''

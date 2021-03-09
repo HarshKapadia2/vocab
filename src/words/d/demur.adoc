@@ -8,6 +8,10 @@
 
 NOTE: Do not confuse 'demur' with 'link:#_demure[demure]'.
 
+==== Synonyms
+
+* link:#_qualm[Qualm]
+
 ==== Sentence
 
 * "There isn't any too much room in this bungalow as it is," [.underline]#demurred# Mr. Pottle.

@@ -7,6 +7,6 @@
 
 ==== Sentences
 
-* Selena was ordered to clear [.underline]#welter# of clothes strewn across the room by her father.
+* Selena was ordered to clear the [.underline]#welter# of clothes strewn across the room by her father.
 
 '''

@@ -1,0 +1,13 @@
+=== Expedite
+
+==== Meaning
+
+* To accelerate the process or progress of something.
+
+NOTE: Do not confuse 'expedite' with 'link:#_expiate[expiate]'.
+
+==== Sentences
+
+* The self check-in [.underline]#expedites# the aircraft boarding process.
+
+'''

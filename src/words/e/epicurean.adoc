@@ -7,7 +7,7 @@
 [NOTE]
 ====
 * Do not confuse epicurean with link:#_epicure[epicure].
-* Do not confuse 'hedonism' with 'link:#_epicure[Epicureanism]'. Hedonism has a negative connotation, while Epicureanism is positive. 
+* Do not confuse 'Epicureanism' with 'link:#_hedonism[Hedonism]'. Hedonism has a negative connotation, while Epicureanism is positive. 
 ====
 
 ==== Sentence

@@ -1,0 +1,18 @@
+=== Propriety
+
+==== Meaning
+
+* The quality or state of being proper or suitable.
+* Conformity to what is socially acceptable in conduct or speech.
+
+NOTE: Do not confuse 'propriety' with 'link:#_proprietary[proprietary]'.
+
+==== Synonyms
+
+* Decorum
+
+==== Sentences
+
+* Lauren felt annoyed the dissenters, but her prim sense of political [.underline]#propriety# forbade her from stooping to personal attacks.
+
+'''

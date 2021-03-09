@@ -1,0 +1,20 @@
+=== Qualm
+
+==== Meaning
+
+* A feeling of uneasiness about a point especially of conscience or link:#_propriety[propriety].
+* A sudden feeling of usually disturbing emotion (such as doubt or fear).
+* A sudden attack of illness, faintness, or nausea.
+
+==== Synonyms
+
+* Misgiving
+* Scruple
+* Compunction
+* link:#_demur[Demur]
+
+==== Sentences
+
+* He had [.underline]#qualms# about accepting the offer.
+
+'''

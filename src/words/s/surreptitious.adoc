@@ -8,7 +8,7 @@
 
 * Covert
 * Privy
-* Clandestine
+* link:#_clandestine[Clandestine]
 
 ==== Sentences
 

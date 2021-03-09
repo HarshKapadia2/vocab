@@ -1,0 +1,18 @@
+=== Quiescent
+
+==== Meaning
+
+* Marked by inactivity or repose.
+
+==== Synonyms
+
+* Silent
+* Dormant
+* Latent
+* link:#_torpor[Torpor]
+
+==== Sentences
+
+* We saw a group of [.underline]#quiescent# loungers recovering from the Thanksgiving feast.
+
+'''

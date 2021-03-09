@@ -1,0 +1,14 @@
+=== Proprietary
+
+==== Meaning
+
+* One that possesses, owns, or holds exclusive right to something.
+* Something that is used, produced, or marketed under exclusive legal right of the inventor or maker.
+
+NOTE: Do not confuse 'proprietary' with 'link:#_propriety[propriety]'.
+
+==== Sentences
+
+* It is illegal to distribute pirated copies of [.underline]#proprietary# software.
+
+'''
