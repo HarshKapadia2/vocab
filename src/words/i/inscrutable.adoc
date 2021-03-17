@@ -1,0 +1,20 @@
+=== Inscrutable
+
+==== Meaning
+
+* Not readily investigated, interpreted or understood.
+
+==== Synonyms
+
+* Arcane
+* link:#_recondite[Recondite]
+* Cryptic
+* Enigmatic
+* Indiscernible
+* Mysterious
+
+==== Sentences
+
+* She had an [.underline]#inscrutable# smile on her face that raised link:#_qualm[qualms] in his mind.
+
+'''

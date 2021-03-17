@@ -1,2 +1,3 @@
 include::../words/w/wanton.adoc[]
 include::../words/w/welter.adoc[]
+include::../words/w/wherewithal.adoc[]

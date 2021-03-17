@@ -1,0 +1,19 @@
+=== Forthright
+
+==== Meaning
+
+* Getting straight to the point.
+* Free from ambiguity or evasiveness.
+* Notably simple in style or quality.
+
+==== Synonyms
+
+* Honest
+* Straightforward
+* Unguarded
+
+==== Sentences
+
+* I appreciate your [.underline]#forthright# explanation of the situation.
+
+'''

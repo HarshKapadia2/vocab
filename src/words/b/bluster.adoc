@@ -1,0 +1,18 @@
+=== Bluster
+
+==== Meaning
+
+* To talk or act with noisy swaggering threats.
+* To be windy and boisterous.
+* To utter with noisy self-assertiveness.
+
+==== Synonyms
+
+* Rant
+
+==== Sentences
+
+* "I don't want to hear it!" he [.underline]#blustered#.
+* They do their work without [.underline]#bluster# or link:#_ostentatious[ostentation].
+
+'''

@@ -1,3 +1,4 @@
+include::../words/e/echelon.adoc[]
 include::../words/e/effete.adoc[]
 include::../words/e/egregious.adoc[]
 include::../words/e/emancipation.adoc[]

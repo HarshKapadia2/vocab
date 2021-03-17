@@ -1,0 +1,13 @@
+=== Dint
+
+==== Meaning
+
+* Force, power
+* To make a dent in.
+
+==== Sentences
+
+* She succeeded by [.underline]#dint# of hard work.
+* Their attitude toward public transportation can be best summed up by Elon Musk, the guy who is, by [.underline]#dint# of his power and influence, somehow treated as the USA’s leading authority on transportation.
+
+'''

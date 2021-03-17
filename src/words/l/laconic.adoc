@@ -1,0 +1,18 @@
+=== Laconic
+
+==== Meaning
+
+* Using or involving the use of a minimum of words.
+* Cna be mysterious or rude sounding.
+
+==== Synonyms
+
+* Concise
+* link:#_succinct[Succinct]
+* Pithy
+
+==== Sentences
+
+* Selena speaks in a surprisingly low, [.underline]#laconic# register.
+
+'''
