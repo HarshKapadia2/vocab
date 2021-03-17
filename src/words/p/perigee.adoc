@@ -1,0 +1,9 @@
+=== Perigee
+
+==== Meaning
+
+* The point in the orbit of an object (such as a satellite) orbiting the earth that is nearest to the center of the earth.
+
+NOTE: 'Apogee' is the farthest point.
+
+'''

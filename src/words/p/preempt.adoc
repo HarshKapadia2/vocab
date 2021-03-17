@@ -1,0 +1,17 @@
+=== Preempt
+
+==== Meaning
+
+* Take for oneself.
+* To gain a commanding place.
+
+==== Synonyms
+
+* Usurp
+
+==== Sentences
+
+* The state law was [.underline]#preempted# by a federal law.
+* The movement was then [.underline]#preempted# by a lunatic fringe.
+
+'''

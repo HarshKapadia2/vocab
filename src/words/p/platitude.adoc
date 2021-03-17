@@ -1,0 +1,17 @@
+=== Platitude
+
+==== Meaning
+
+* The quality or state of being dull or insipid (tasteless/flat).
+* A banal or stale remark.
+
+==== Synonyms
+
+* Banality
+
+==== Sentences
+
+* His speech was filled with familiar [.underline]#platitudes# about the value of hard work and dedication.
+* “Blondes have more fun” is a silly [.underline]#platitude#.
+
+'''

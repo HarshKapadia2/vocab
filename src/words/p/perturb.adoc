@@ -1,0 +1,18 @@
+=== Perturb
+
+==== Meaning
+
+* To cause to be worried or upset.
+* To throw into confusion.
+
+==== Synonyms
+
+* link:#_disconcerting[Disconcerting]
+* Agitate
+* Unsettle
+
+==== Sentences
+
+* The loud music in the party greatly [.underline]#perturbed# the elderly couple living in a nearby house.
+
+'''

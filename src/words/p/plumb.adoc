@@ -1,0 +1,18 @@
+=== Plumb
+
+==== Meaning
+
+* A lead weight attached to a line and used to indicate a vertical direction.
+* Vertical
+* A line to help in drawing.
+* To examine deeply.
+* To determine the depth.
+* To a complete degree.
+* Cricket: Very obviously out, usually by Leg Before Wicket.
+
+==== Sentences
+
+* He set the board [.underline]#plumb#.
+* I [.underline]#plumb# forgot about the party.
+
+'''

@@ -1,0 +1,17 @@
+=== Phlegmatic
+
+==== Meaning
+
+* Having or showing a slow and link:#_stolid[stolid] temperament.
+* Unemotional
+
+==== Synonyms
+
+* Stoic
+* link:#_apathy[Apathetic]
+
+==== Sentences
+
+* His mother was [.underline]#phlegmatic# even when his brother was really ill.
+
+'''

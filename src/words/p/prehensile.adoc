@@ -1,0 +1,17 @@
+=== Prehensile
+
+==== Meaning
+
+* Gifted with mental grasp or moral or aesthetic perception.
+* Adapted for seizing or grasping especially by wrapping around.
+
+==== Synonyms
+
+* 
+
+==== Sentences
+
+* The monkey has a [.underline]#prehensile# tail.
+* The elephant has a [.underline]#prehensile# trunk.
+
+'''

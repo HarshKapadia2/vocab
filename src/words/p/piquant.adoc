@@ -1,0 +1,18 @@
+=== Piquant
+
+==== Meaning
+
+* Engagingly provocative.
+* Agreeably stimulating to the taste (esp: Spicy).
+
+==== Synonyms
+
+* Poignant
+* pungent
+
+==== Sentences
+
+* He served the fish with a [.underline]#piquant# sauce.
+* The influx of players brought some very [.underline]#piquant# problems to light in that department.
+
+'''

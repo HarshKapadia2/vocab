@@ -1,0 +1,13 @@
+=== Pique
+
+==== Meaning
+
+* To excite or arouse especially by a provocation, challenge or rebuff.
+* To arouse anger or resentment in someone.
+
+==== Sentences
+
+* Her sly remarks [.underline]#piqued# their curiosity.
+* Teachers should teach in such a way that their subject [.underline]#piques# the curiosity of their students.
+
+'''

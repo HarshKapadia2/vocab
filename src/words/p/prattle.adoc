@@ -1,0 +1,17 @@
+=== Prattle
+
+==== Meaning
+
+* Trifling or empty talk.
+* To utter or make meaningless sounds suggestive of the chatter of children.
+
+==== Synonyms
+
+* Babble
+* link:#_prate[Prate]
+
+==== Sentences
+
+* They [.underline]#prattled# on into the night, discussing school, music and friends.
+
+'''
