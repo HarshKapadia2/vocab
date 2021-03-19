@@ -1,0 +1,12 @@
+=== Non sequitur
+
+==== Meaning
+
+* An inference that does not follow from the premise(s).
+* A statement/response that does not follow logically from or is not clearly related to anything previously said.
+
+==== Sentences
+
+* We were talking about the new restaurant when she threw in some [.underline]#non sequitur# about her dog.
+
+'''
