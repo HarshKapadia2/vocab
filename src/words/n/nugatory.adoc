@@ -7,7 +7,7 @@
 
 ==== Synonyms
 
-* Trifling
+* link:#_trifling[Trifling]
 * Inconsequential
 * Null and void
 * Invalid
