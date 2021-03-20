@@ -1,0 +1,18 @@
+=== Occlude
+
+==== Meaning
+
+* Close off, block
+* Conceal
+* To come into contact with cusps of the opposing teeth fitting together.
+
+==== Synonyms
+
+* Obstruct
+
+==== Sentences
+
+* A blood clot had [.underline]#occluded# a major artery in her body.
+* Her teeth do not [.underline]#occlude# properly.
+
+'''

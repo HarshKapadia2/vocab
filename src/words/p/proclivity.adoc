@@ -1,0 +1,17 @@
+=== Proclivity
+
+==== Meaning
+
+* An inclination or predisposition toward something.
+* A strong inherent inclination toward something objectionable.
+
+==== Synonyms
+
+* Penchant
+* link:#_propensity[Propensity]
+
+==== Sentences
+
+* Professor McGonagall told Neville, “Why don't you confer with Mr. Finnegan? As I recall, he has a particular [.underline]#proclivity# for pyrotechnics.”
+
+'''

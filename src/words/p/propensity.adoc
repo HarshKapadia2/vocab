@@ -8,6 +8,7 @@
 
 * Tendency
 * Proneness
+* link:#_proclivity[Proclivity]
 
 ==== Sentences
 
