@@ -1,0 +1,19 @@
+=== Nugatory
+
+==== Meaning
+
+* Something of little or no consequence.
+* Having no force.
+
+==== Synonyms
+
+* Trifling
+* Inconsequential
+* Null and void
+* Invalid
+
+==== Sentences
+
+* The book is entertaining, but its contributions to the Shakespearean scholarship are [.underline]#nugatory#.
+
+'''

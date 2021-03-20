@@ -4,7 +4,12 @@
 
 * A beginner.
 
-==== Sentence
+==== Synonyms
+
+* link:#_neophyte[Neophyte]
+* Novice
+
+==== Sentences
 
 * One should never make fun of a [.underline]#tyro#, as everyone starts out as a beginner.
 
