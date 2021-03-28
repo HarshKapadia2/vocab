@@ -1,0 +1,13 @@
+=== Cadence
+
+==== Meaning
+
+* A rhythmic sequence or flow of sounds in language.
+* A regular and repeated pattern of activity.
+
+==== Sentences
+
+* Oars moved back and forth in smooth [.underline]#cadence#.
+* Adria and Axel found his French [.underline]#cadence# difficult to follow.
+
+'''

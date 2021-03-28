@@ -1,0 +1,12 @@
+=== Osculate
+
+==== Meaning
+
+* Kiss
+* To touch at a point where two parts of a curve have a common tangent.
+
+==== Sentences
+
+* They [.underline]#osculated#.
+
+'''

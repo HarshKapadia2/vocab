@@ -1,0 +1,13 @@
+=== Triage
+
+==== Meaning
+
+* The sorting of patients (as in an emergency room) according to the urgency or type of their need for care.
+* The assigning of priority order to projects on the basis of where funds and other resources can be best used, are most needed or are most likely to achieve success.
+
+==== Sentences
+
+* Nurses do [.underline]#triage# in the emergency room.
+* Review the critical path for projects and [.underline]#triage# your commitments.
+
+'''

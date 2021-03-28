@@ -1,3 +1,4 @@
+include::../words/c/cadence.adoc[]
 include::../words/c/canard.adoc[]
 include::../words/c/canonical.adoc[]
 include::../words/c/cataclysmic.adoc[]
