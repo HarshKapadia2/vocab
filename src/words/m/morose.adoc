@@ -1,0 +1,19 @@
+=== Morose
+
+==== Meaning
+
+* Having a sullen and gloomy disposition.
+
+==== Synonyms
+
+* Bleak
+* Dreary
+* link:#_stygian[Stygian]
+* link:#_saturnine[Saturnine]
+* Sullen
+
+==== Sentences
+
+* Even as tech optimism is obvious, sentiment in much of the rest of the market remains [.underline]#morose#.
+
+'''

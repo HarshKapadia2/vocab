@@ -1,0 +1,17 @@
+=== Mendacious
+
+==== Meaning
+
+* Dishonest
+
+NOTE: Antonym: link:#_veracious[Veracious]
+
+==== Synonyms
+
+* Deceitful
+
+==== Sentences
+
+* She was accused of enabling an incompetent and [.underline]#mendacious# President.
+
+'''

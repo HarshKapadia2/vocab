@@ -6,6 +6,7 @@
 
 ==== Synonyms
 
+* link:#_mollify[Mollify]
 * Appease
 * Placate
 

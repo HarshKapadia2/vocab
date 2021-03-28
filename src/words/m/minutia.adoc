@@ -1,0 +1,13 @@
+=== Minutia
+
+==== Meaning
+
+* A minute or minor detail.
+* Petty details.
+
+==== Sentences
+
+* Selena just wanted to hear how the date went, but Camila went on with this [.underline]#minutia# about the arch of Lauren's eyebrows.
+* He was bewildered by the contract's [.underline]#minutiae#.
+
+'''

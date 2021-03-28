@@ -5,6 +5,8 @@
 * Truthful, honest
 * Accurate
 
+NOTE: Antonym: link:#_mendacious[Mendacious]
+
 ==== Sentences
 
 * She has a reputation for being [.underline]#veracious#, so people generally take her word for things.

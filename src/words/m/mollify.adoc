@@ -1,0 +1,20 @@
+=== Mollify
+
+==== Meaning
+
+* To soothe someone.
+* To reduce the rigidity of something.
+* To reduce in intensity.
+
+==== Synonyms
+
+* link:#_propitiate[Propitiate]
+* Appease
+* Assuage
+* Placate
+
+==== Sentences
+
+* It was not easy to [.underline]#mollify# the grieving.
+
+'''
