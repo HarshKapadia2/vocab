@@ -1,4 +1,5 @@
 include::../words/r/radical.adoc[]
+include::../words/r/ratchet.adoc[]
 include::../words/r/rationalize.adoc[]
 include::../words/r/recant.adoc[]
 include::../words/r/recondite.adoc[]
