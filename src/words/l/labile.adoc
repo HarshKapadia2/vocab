@@ -1,0 +1,17 @@
+=== Labile
+
+==== Meaning
+
+* Readily open to change.
+* Readily or continually undergoing chemical, physical or biological change or breakdown.
+
+==== Synonyms
+
+* Unstable
+
+==== Sentences
+
+* It is a [.underline]#labile# mineral.
+* Arias, an exciting and emotionally [.underline]#labile# actor, makes Anna a jittery creature, like a woman in the constant throes of a low-grade fever.
+
+'''

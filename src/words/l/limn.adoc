@@ -1,0 +1,16 @@
+=== Limn
+
+==== Meaning
+
+* To draw or paint on a surface.
+* Describe
+
+==== Synonyms
+
+* link:#_delineate[Delineate]
+
+==== Sentences
+
+* He was [.underline]#limned# by a streetlight.
+
+'''

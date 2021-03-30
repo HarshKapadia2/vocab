@@ -1,0 +1,14 @@
+=== Limpid
+
+==== Meaning
+
+* Clear and simple in style.
+* Marked by transparency.
+* Absolutely serene and untroubled.
+
+==== Sentences
+
+* We saw a lot of [.underline]#limpid# streams.
+* Hussein Nasser's [.underline]#limpid# presentation style makes concepts easy to understand.
+
+'''

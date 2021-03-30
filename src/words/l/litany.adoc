@@ -1,0 +1,14 @@
+=== Litany
+
+==== Meaning
+
+* A resonant or repetitive chant.
+* A sizable series or set.
+
+==== Sentences
+
+* The drug has a [.underline]#litany# of possible side effects.
+* A [.underline]#litany# of cheering phrases.
+* A familiar [.underline]#litany# of complaints.
+
+'''

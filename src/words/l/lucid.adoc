@@ -1,0 +1,19 @@
+=== Lucid
+
+==== Meaning
+
+* Clear to the understanding.
+* Translucent
+* Having full use of one's faculties.
+
+==== Synonyms
+
+* Sane
+* Intelligible
+* Incandescent
+
+==== Sentences
+
+* His [.underline]#lucid# history of this grim subject is scrupulously accurate.
+
+'''

@@ -1,0 +1,17 @@
+=== Lassitude
+
+==== Meaning
+
+* A condition of weariness and lethargy.
+
+==== Synonyms
+
+* Fatigue
+* Burnout
+* link:#_torpor[Torpor]
+
+==== Sentences
+
+* Symptoms of the disease include paleness and [.underline]#lassitude#.
+
+'''
