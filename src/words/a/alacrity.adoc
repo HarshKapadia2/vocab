@@ -1,0 +1,12 @@
+=== Alacrity
+
+==== Meaning
+
+* Promptness in response.
+* Cheerful readiness.
+
+==== Sentences
+
+* The [.underline]#alacrity# with which the mentors agreed to mentor the participants at the hackathon surprised me!
+
+'''

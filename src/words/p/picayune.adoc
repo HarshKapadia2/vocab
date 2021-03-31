@@ -1,0 +1,16 @@
+=== Picayune
+
+==== Meaning
+
+* Something trivial.
+
+==== Synonyms
+
+* link:#_trifling[Trifling]
+
+==== Sentences
+
+* Our lives don't amount to a [.underline]#picayune# in the great scheme of things.
+* They argued over the most [.underline]#picayune# details.
+
+'''
