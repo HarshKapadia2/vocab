@@ -1,0 +1,13 @@
+=== Junta
+
+==== Meaning
+
+* A group of people united politically.
+* A group of people controlling a government especially after a revolutionary seizure of power.
+
+==== Sentences
+
+* This [.underline]#junta# is arbitrarily detaining people in night-time raids.
+* They are supporting the military [.underline]#junta#.
+
+'''

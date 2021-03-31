@@ -1,3 +1,7 @@
+include::../words/j/jibe.adoc[]
 include::../words/j/jingoist.adoc[]
+include::../words/j/jocose.adoc[]
 include::../words/j/judas.adoc[]
+include::../words/j/juggernaut.adoc[]
+include::../words/j/junta.adoc[]
 include::../words/j/juxtapose.adoc[]

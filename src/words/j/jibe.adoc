@@ -1,0 +1,13 @@
+=== Jibe
+
+==== Meaning
+
+* To tease with taunting words.
+* To be in accord.
+
+==== Sentences
+
+* Finally, a story that doesn't [.underline]#jibe# with the facts.
+* Her constant and unrelenting [.underline]#jibes# at him led to him quitting the team.
+
+'''
