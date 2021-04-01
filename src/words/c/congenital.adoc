@@ -5,6 +5,8 @@
 * Something that is existing at or dating from birth.
 * Being such by nature.
 
+NOTE: Do not confuse 'congenital' with 'link:#_congenial[congenial]'.
+
 ==== Synonyms
 
 * Hereditary

@@ -10,7 +10,7 @@
 * Apt
 * Palatable
 * Delectable
-* Congenial
+* link:#_congenial[Congenial]
 
 ==== Sentences
 

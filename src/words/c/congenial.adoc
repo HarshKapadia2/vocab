@@ -1,0 +1,22 @@
+=== Congenial
+
+==== Meaning
+
+* Pleasant
+* Sociable
+* Having the same nature, disposition or tastes.
+
+NOTE: Do not confuse 'congenial' with 'link:#_congenital[congenital]'.
+
+==== Synonyms
+
+* Delectable
+* link:#_felicitous[Felicitous]
+* Satisfying
+
+==== Sentences
+
+* They were [.underline]#congenial# companions.
+* Selena may walk up to the stage with the cool strut of a superstar, but off the stage she is warm and [.underline]#congenial#.
+
+'''

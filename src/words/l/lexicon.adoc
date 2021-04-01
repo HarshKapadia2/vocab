@@ -1,0 +1,12 @@
+=== Lexicon
+
+==== Meaning
+
+* Dictionary
+* link:#_repertoire[Repertoire], inventory
+
+==== Sentences
+
+* This is a computer term that has entered the general [.underline]#lexicon#.
+
+'''

@@ -1,0 +1,17 @@
+=== Commensurate
+
+==== Meaning
+
+* Corresponding in size, measure, extent, amount or degree.
+
+NOTE: Do not confuse 'commensurate' with 'link:#_commiserate[commiserate]'.
+
+==== Synonyms
+
+* Proportionate
+
+==== Sentences
+
+* Because the effects of tobacco are slow and iterative and produce diseases that have other causes and explanations, often later in life, they seldom arouse fear [.underline]#commensurate# with their impact.
+
+'''
