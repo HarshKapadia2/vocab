@@ -1,0 +1,19 @@
+=== Delirious
+
+==== Meaning
+
+* Affected by delirium.
+* Delirium: An acute mental disturbance characterized by confused thinking and disrupted attention usually accompanied by disordered speech and hallucinations.
+
+NOTE: Do not confuse 'delirious' with 'link:#_derision[derision]' or 'link:#_deleterious[deleterious]'.
+
+==== Synonyms
+
+* Agitated
+* Hysterical
+
+==== Sentences
+
+* As the child's temperature went up, he became [.underline]#delirious# and didn't know where he was.
+
+'''

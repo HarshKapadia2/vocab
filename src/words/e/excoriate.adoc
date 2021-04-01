@@ -1,0 +1,16 @@
+=== Excoriate
+
+==== Meaning
+
+* To censure scathingly.
+
+==== Synonyms
+
+* link:#_vituperative[Vituperative]
+* link:#_lambaste[Lambaste]
+
+==== Sentences
+
+* The candidates have publicly [.underline]#excoriated# each other throughout the campaign.
+
+'''

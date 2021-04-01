@@ -1,0 +1,16 @@
+=== Derision
+
+==== Meaning
+
+* The use of ridicule or scorn to show contempt.
+* A state of being laughed at or ridiculed.
+* An object of ridicule or scorn.
+
+NOTE: Do not confuse 'derision' with 'link:#_delirious[delirious]'.
+
+==== Sentences
+
+* Being constantly [.underline]#derided# can make a person bitter.
+* It’s an object of [.underline]#derision# more often than praise within the ecosystem.
+
+'''

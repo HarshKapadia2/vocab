@@ -4,6 +4,8 @@
 
 * Something that is harmful often in a subtle or unexpected way.
 
+NOTE: Do not confuse 'deleterious' with 'link:#_delirious[delirious]'.
+
 ==== Sentences
 
 * Cancer is an link:#_insidious[insidious] disease and its [.underline]#deleterious# effects on other organs are noticed quite late as well.

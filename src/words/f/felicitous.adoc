@@ -1,0 +1,20 @@
+=== Felicitous
+
+==== Meaning
+
+* Very well suited or expressed.
+* Pleasant, delightful
+
+==== Synonyms
+
+* Apt
+* Palatable
+* Delectable
+* Congenial
+
+==== Sentences
+
+* A [.underline]#felicitous# combination of flavors.
+* She handled the delicate matter in a most [.underline]#felicitous# manner.
+
+'''

@@ -1,0 +1,12 @@
+=== Tepid
+
+==== Meaning
+
+* Lacking in passion, force, enthusiasm, conviction or zest.
+* Lukewarm
+
+==== Sentences
+
+* My suggestion got a [.underline]#tepid# response.
+
+'''
