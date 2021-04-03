@@ -1,0 +1,17 @@
+=== Preclude
+
+==== Meaning
+
+* Rule out in advance.
+
+==== Synonyms
+
+* link:#_obviate[Obviate]
+* Forestall
+* Stave off
+
+==== Sentences
+
+* Child-care issues can [.underline]#preclude# them from working.
+
+'''

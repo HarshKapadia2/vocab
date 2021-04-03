@@ -1,0 +1,21 @@
+=== Capitulate
+
+==== Meaning
+
+* To surrender often after negotiation of terms.
+* To cease resisting.
+
+NOTE: Do not confuse 'capitulate' with 'recapitulate' (summarize).
+
+==== Synonyms
+
+* Succumb
+* Concede
+* Relent
+
+==== Sentences
+
+* The country still refuses to [.underline]#capitulate# despite its weakening army and dwindling resources.
+* The teacher refused to [.underline]#capitulate#: no calculators were to be used during the exam.
+
+'''

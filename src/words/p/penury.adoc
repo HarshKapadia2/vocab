@@ -1,0 +1,17 @@
+=== Penury
+
+==== Meaning
+
+* A cramping and oppressive lack of resources.
+* Extreme and often stingy frugality.
+
+==== Synonyms
+
+* Impoverishment
+* link:#_destitute[Destitution]
+
+==== Sentences
+
+* By the World Bank’s estimate, some 800m people in China have escaped [.underline]#penury# in the past four decades.
+
+'''

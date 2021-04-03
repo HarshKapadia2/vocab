@@ -1,0 +1,16 @@
+=== Intrepid
+
+==== Meaning
+
+* Characterized by resolute fearlessness, fortitude and endurance.
+
+==== Synonyms
+
+* Gallant
+* Dauntless
+
+==== Sentences
+
+* It was one of the most [.underline]#intrepid# adventurers of all time.
+
+'''

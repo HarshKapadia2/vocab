@@ -1,0 +1,23 @@
+=== Consummate
+
+==== Meaning
+
+* Extremely skilled and accomplished.
+* To make (marital union) complete by sexual intercourse.
+* Finish, complete
+* Of the highest degree.
+
+NOTE: Do not confuse 'consummate' with 'link:#_commensurate[commensurate]'.
+
+==== Synonyms
+
+* Perfect
+* Proficient
+* link:#_virtuoso[Virtuoso]
+
+==== Sentences
+
+* To thrive in science, you must be both a [.underline]#consummate# collaborator and a relentless competitor.
+* That was a time of [.underline]#consummate# cruelty.
+
+'''

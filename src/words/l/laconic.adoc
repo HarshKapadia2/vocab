@@ -10,6 +10,7 @@
 * Concise
 * link:#_succinct[Succinct]
 * Pithy
+* link:#_taciturn[Taciturn]
 
 ==== Sentences
 
