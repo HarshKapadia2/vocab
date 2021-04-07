@@ -4,6 +4,8 @@
 
 * A system in which people are moved into power or are accepted into something based on their merit and abilities.
 
+NOTE: Do not confuse 'meritocracy' with 'link:#_meretricious[meretricious]'.
+
 ==== Sentence
 
 * All systems in today's world claim to be [.underline]#meritocratic#, but with 'correct' contacts and backdoor dealings, is that the case?

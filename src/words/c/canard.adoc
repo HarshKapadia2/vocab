@@ -7,6 +7,6 @@
 
 ==== Sentences
 
-* The link:#_regale[regaled] everyone with old [.underline]#canards#.
+* They link:#_regale[regaled] everyone with old [.underline]#canards#.
 
 '''

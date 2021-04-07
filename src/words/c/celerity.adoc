@@ -6,7 +6,7 @@
 
 ==== Sentences
 
-* link:#_astute[Astute] people are generally show a marked [.underline]#celerity#.
+* link:#_astute[Astute] people generally show a marked [.underline]#celerity#.
 * [.underline]#Celerity# of movement is vital in war.
 
 '''
