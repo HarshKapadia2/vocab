@@ -1,0 +1,13 @@
+=== Appraisal
+
+==== Meaning
+
+* To set a value on.
+* To evaluate the worth, significance or status of something or someone.
+
+==== Sentences
+
+* The ring must be [.underline]#appraised# by a jeweler before it can be insured.
+* The results would allow investors to [.underline]#appraise# the value of Coinbase shares.
+
+'''

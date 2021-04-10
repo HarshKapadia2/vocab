@@ -1,0 +1,19 @@
+=== Reprisal
+
+==== Meaning
+
+* A retaliatory act.
+* Something (such as a sum of money) given or paid to compensate or to get back to the previous state.
+* The regaining of something.
+
+==== Synonyms
+
+* Remuneration
+* Recompense
+
+==== Sentences
+
+* The allies threatened economic [.underline]#reprisals# against the invading country.
+* The rhetoric has only grown more heated since, with reports that some sort of [.underline]#reprisal# may come in the next three weeks for the employees.
+
+'''

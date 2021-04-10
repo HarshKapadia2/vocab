@@ -1,0 +1,19 @@
+=== Cogitate
+
+==== Meaning
+
+* To ponder or meditate on usually intently.
+
+==== Synonyms
+
+* Contemplate
+* Deliberate
+* Ruminate
+* Meditate
+* Pore over
+
+==== Sentences
+
+* She was [.underline]#cogitating# the possible consequences of my decision.
+
+'''

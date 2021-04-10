@@ -9,6 +9,7 @@
 * Foreboding
 * Omen
 * link:#_presage[Presage]
+* link:#_augury[Augury]
 
 ==== Sentences
 

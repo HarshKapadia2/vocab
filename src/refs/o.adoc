@@ -1,6 +1,7 @@
 include::../words/o/obdurate.adoc[]
 include::../words/o/obsequious.adoc[]
 include::../words/o/obsequy.adoc[]
+include::../words/o/obstreperous.adoc[]
 include::../words/o/obviate.adoc[]
 include::../words/o/occlude.adoc[]
 include::../words/o/occult.adoc[]

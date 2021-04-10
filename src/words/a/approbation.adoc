@@ -1,0 +1,17 @@
+=== Approbation
+
+==== Meaning
+
+* Praise
+* An act of approving formally or officially.
+
+==== Synonyms
+
+* Commendation
+
+==== Sentences
+
+* The company has even received the [.underline]#approbation# of its former critics.
+* That plan has the [.underline]#approbation# of the school board.
+
+'''

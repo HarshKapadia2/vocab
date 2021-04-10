@@ -1,0 +1,18 @@
+=== Ingenious
+
+==== Meaning
+
+* link:#_ingenuity[Ingenuity]
+* Having or showing an unusual aptitude for discovering, inventing or contriving.
+* Marked by originality, resourcefulness, and cleverness in conception or execution.
+
+==== Synonyms
+
+* Promethean
+* Innovative
+
+==== Sentences
+
+* She showed amazing [.underline]#ingenuity# in finding ways to cut costs.
+
+'''

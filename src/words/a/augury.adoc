@@ -1,0 +1,18 @@
+=== Augury
+
+==== Meaning
+
+* Omen
+* Foretell
+
+==== Synonyms
+
+* link:#_portent[Portent]
+* link:#_presage[Presage]
+
+==== Sentences
+
+* Ancient [.underline]#augury# involved the interpretation of the flight patterns of birds.
+* Some people believe that a broken mirror is an [.underline]#augury# of seven years of bad luck.
+
+'''

@@ -13,6 +13,6 @@
 
 ==== Sentences
 
-* She pays scrupulous attention to details other [.underline]#artists# might gloss over.
+* She pays [.underline]#scrupulous# attention to details other artists might gloss over.
 
 '''

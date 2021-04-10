@@ -11,6 +11,7 @@
 * Foretell
 * Predict
 * link:#_portent[Portent]
+* link:#_augury[Augury]
 
 ==== Sentences
 

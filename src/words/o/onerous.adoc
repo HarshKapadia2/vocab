@@ -12,6 +12,6 @@
 ==== Sentences
 
 * The pandemic proved to an [.underline]#onerous# period for a lot of businesses. A lot of them closed down as well.
-* An onerous contract/regulation/mortgage.
+* An [.underline]#onerous# contract/regulation/mortgage.
 
 '''

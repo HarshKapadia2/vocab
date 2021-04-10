@@ -13,6 +13,6 @@ NOTE: Do not confuse 'propriety' with 'link:#_proprietary[proprietary]'.
 
 ==== Sentences
 
-* Lauren felt annoyed the dissenters, but her prim sense of political [.underline]#propriety# forbade her from stooping to personal attacks.
+* Lauren felt annoyed by the dissenters, but her prim sense of political [.underline]#propriety# forbade her from stooping to personal attacks.
 
 '''
