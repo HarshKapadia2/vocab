@@ -1,0 +1,12 @@
+=== Accrued
+
+==== Meaning
+
+* Accumulated over a period of time.
+
+==== Sentences
+
+* Three weeks of [.underline]#accrued# vacation time.
+* The loan increases by the amount of unpaid, [.underline]#accrued# interest.
+
+'''

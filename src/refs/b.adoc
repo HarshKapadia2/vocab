@@ -1,6 +1,7 @@
 include::../words/b/barroom.adoc[]
 include::../words/b/bastille.adoc[]
 include::../words/b/behoove.adoc[]
+include::../words/b/bespoke.adoc[]
 include::../words/b/bluster.adoc[]
 include::../words/b/boorish.adoc[]
 include::../words/b/bourgeois.adoc[]

@@ -11,6 +11,7 @@
 * Censure
 * Rebuke
 * Reprimand
+* link:#_stricture[Stricture]
 
 ==== Sentences
 

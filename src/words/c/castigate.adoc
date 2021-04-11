@@ -1,0 +1,19 @@
+=== Castigate
+
+==== Meaning
+
+* To subject to severe punishment, reproof or criticism.
+
+==== Synonyms
+
+* Chastise
+* link:#_lambaste[Lambaste]
+* link:#_excoriate[Excoriate]
+* link:#_stricture[Stricture]
+* Reproach
+
+==== Sentences
+
+* She [.underline]#castigated# him for his constant tardiness.
+
+'''

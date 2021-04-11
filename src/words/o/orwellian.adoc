@@ -1,0 +1,13 @@
+=== Orwellian
+
+==== Meaning
+
+* Relating to or suggestive of George Orwell or his writings.
+	** Relating to or suggestive of the dystopian reality depicted in the novel 1984.
+
+==== Sentences
+
+* Privacy advocates warn that advances in technology and data collection simply make an [.underline]#Orwellian# slippery slope even more slippery.
+* Some critics view knowledge engineering as a threat, as the vanguard of an [.underline]#Orwellian# future in which thinking machines take control.
+
+'''

@@ -1,0 +1,18 @@
+=== Dubious
+
+==== Meaning
+
+* Unsettled in opinion.
+* Giving rise to uncertainty.
+* Doubtful promise or outcome.
+
+==== Synonyms
+
+* Dubitable
+
+==== Sentences
+
+* A [.underline]#dubious# plan.
+* The practice is of [.underline]#dubious# legality.
+
+'''
