@@ -1,0 +1,13 @@
+=== Pecuniary
+
+==== Meaning
+
+* Consisting of or measured in money.
+* Relating to money.
+
+==== Sentences
+
+* The judge recused himself from the case because he had a [.underline]#pecuniary# interest in the company that was being sued.
+* They were given [.underline]#pecuniary# aid.
+
+'''

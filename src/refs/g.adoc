@@ -1,2 +1,3 @@
 include::../words/g/glossophobia.adoc[]
 include::../words/g/gregarious.adoc[]
+include::../words/g/gasconade.adoc[]

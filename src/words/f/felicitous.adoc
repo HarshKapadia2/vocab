@@ -11,6 +11,7 @@
 * Palatable
 * Delectable
 * link:#_congenial[Congenial]
+* link:#_affable[Affable]
 
 ==== Sentences
 

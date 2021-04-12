@@ -1,3 +1,4 @@
+include::../words/h/halcyon.adoc[]
 include::../words/h/hedonism.adoc[]
 include::../words/h/hegemonic.adoc[]
 include::../words/h/hitherto.adoc[]

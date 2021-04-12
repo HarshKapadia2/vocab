@@ -13,6 +13,7 @@ NOTE: Do not confuse 'congenial' with 'link:#_congenital[congenital]'.
 * Delectable
 * link:#_felicitous[Felicitous]
 * Satisfying
+* link:#_affable[Affable]
 
 ==== Sentences
 

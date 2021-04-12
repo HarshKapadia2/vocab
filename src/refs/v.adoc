@@ -1,4 +1,5 @@
 include::../words/v/vagrant.adoc[]
+include::../words/v/vanguard.adoc[]
 include::../words/v/vegetate.adoc[]
 include::../words/v/veracious.adoc[]
 include::../words/v/verbatim.adoc[]

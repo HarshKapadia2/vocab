@@ -1,0 +1,13 @@
+=== Metastasis
+
+==== Meaning
+
+* Change of position, state or form.
+* The spread of a disease-producing agency (such as cancer cells) from the initial or primary site of disease to another part of the body.
+
+==== Sentences
+
+* His own bone marrow was seeded with a [.underline]#metastasis# that had migrated from an unknown site somewhere in his body.
+* Currently there is no inhibitor to arrest [.underline]#metastasis#.
+
+'''
