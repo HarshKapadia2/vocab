@@ -1,0 +1,15 @@
+=== Exacerbate
+
+==== Meaning
+
+* To make more violent, bitter or severe.
+
+==== Synonyms
+
+* Aggravate
+
+==== Sentences
+
+* The new law only [.underline]#exacerbates# the problem.
+
+'''

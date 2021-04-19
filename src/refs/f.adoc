@@ -1,6 +1,7 @@
 include::../words/f/fascism.adoc[]
 include::../words/f/fastidious.adoc[]
 include::../words/f/faustian.adoc[]
+include::../words/f/faux.adoc[]
 include::../words/f/felicitous.adoc[]
 include::../words/f/fervor.adoc[]
 include::../words/f/fidelity.adoc[]

@@ -1,0 +1,11 @@
+=== Recuse
+
+==== Meaning
+
+* To disqualify (oneself) as judge in a particular case to avoid a conflict of interest.
+
+==== Sentences
+
+* The judge [.underline]#recused# himself from the case because he had a link:#_pecuniary[pecuniary] interest in the company that was being sued.
+
+'''

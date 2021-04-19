@@ -1,0 +1,19 @@
+=== Unequivocal
+
+==== Meaning
+
+* Leaving no doubt.
+* Unquestionable
+
+==== Synonyms
+
+* Clear
+* Unambiguous
+* link:#_lucid[Lucid]
+
+==== Sentences
+
+* The jury ruled that her hand in the crime was [.underline]#unequivocal#.
+* The inauguration took place on the spot where thousands of angry rioters had to converged, at Trump’s urging, hoping to prevent Congress from certifying Biden’s [.underline]#unequivocal# victory.
+
+'''

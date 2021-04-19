@@ -1,3 +1,4 @@
 include::../words/k/ken.adoc[]
+include::../words/k/kilter.adoc[]
 include::../words/k/kismet.adoc[]
 include::../words/k/kleptomaniac.adoc[]

@@ -1,0 +1,17 @@
+=== Inveigh
+
+==== Meaning
+
+* To protest or complain bitterly or vehemently.
+
+==== Synonyms
+
+* Gripe
+* Complain
+
+==== Sentences
+
+* The Doctor [.underline]#inveighed# against the treatment.
+* They were always [.underline]#inveighing# against the high property taxes that they were forced to pay.
+
+'''

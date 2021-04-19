@@ -1,0 +1,20 @@
+=== Pith
+
+==== Meaning
+
+* The essential part.
+* Importance
+* A usually continuous central strand of spongy tissue in the stems of most vascular plants that probably functions chiefly in storage.
+
+==== Synonyms
+
+* Core
+* Crux
+* Essence
+
+==== Sentences
+
+* Finally got to the [.underline]#pith# of the discussion.
+* Use your knife to remove the peel and [.underline]#pith# from top to bottom, rotating the citrus as needed.
+
+'''

@@ -7,7 +7,7 @@
 
 ==== Sentences
 
-* The judge recused himself from the case because he had a [.underline]#pecuniary# interest in the company that was being sued.
+* The judge link:#_recuse[recused] himself from the case because he had a [.underline]#pecuniary# interest in the company that was being sued.
 * They were given [.underline]#pecuniary# aid.
 
 '''

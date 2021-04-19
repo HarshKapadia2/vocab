@@ -11,6 +11,7 @@
 * Sane
 * Intelligible
 * Incandescent
+* link:#_unequivocal[Unequivocal]
 
 ==== Sentences
 

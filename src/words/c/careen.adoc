@@ -1,0 +1,13 @@
+=== Careen
+
+==== Meaning
+
+* To put (a ship or boat) on a beach especially in order to clean, caulk or repair the hull.
+* To cause to heel over.
+
+==== Sentences
+
+* She [.underline]#careened# unsteadily to the couch after hitting her head.
+* The sled [.underline]#careened# as it barreled down the hill.
+
+'''

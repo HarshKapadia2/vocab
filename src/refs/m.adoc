@@ -1,6 +1,7 @@
 include::../words/m/machiavellian.adoc[]
 include::../words/m/machination.adoc[]
 include::../words/m/magnum_opus.adoc[]
+include::../words/m/maladroit.adoc[]
 include::../words/m/malapropism.adoc[]
 include::../words/m/malinger.adoc[]
 include::../words/m/martinet.adoc[]
