@@ -1,0 +1,22 @@
+=== Sanguine
+
+==== Meaning
+
+* Confidently optimistic.
+* Marked by eager hopefulness.
+* Consisting of or relating to blood.
+
+==== Synonyms
+
+* Bloodred
+* Bloodthirsty
+* Murderous
+* Homicidal
+
+==== Sentences
+
+* He has been strangely [.underline]#sanguine# about this, blandly ignoring the mounting evidence.
+* They were attacked by the [.underline]#sanguine# warriors of neighboring islands.
+* Some [.underline]#sanguine# vessels are obstructed and distended.
+
+'''

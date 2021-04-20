@@ -9,7 +9,7 @@
 * Arcane
 * link:#_recondite[Recondite]
 * Cryptic
-* Enigmatic
+* link:#_enigma[Enigmatic]
 * Indiscernible
 * Mysterious
 

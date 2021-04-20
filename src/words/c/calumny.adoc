@@ -1,0 +1,18 @@
+=== Calumny
+
+==== Meaning
+
+* A misrepresentation intended to harm another person's reputation.
+
+==== Synonyms
+
+* Vilification
+* link:#_disparage[Disparage]
+
+==== Sentences
+
+* He was the target of [.underline]#calumny# for his unpopular beliefs.
+* They uttered [.underline]#calumnies# against her.
+* Miller has waved off that claim as [.underline]#calumny#, even though Richardson served as Miller’s faithful No. 2 for more than a decade at Xavier and Arizona.
+
+'''

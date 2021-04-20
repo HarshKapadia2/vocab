@@ -9,6 +9,7 @@
 * Fatigue
 * Burnout
 * link:#_torpor[Torpor]
+* link:#_languor[Languor]
 
 ==== Sentences
 

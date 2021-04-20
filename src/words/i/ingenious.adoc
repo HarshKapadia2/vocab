@@ -6,6 +6,8 @@
 * Having or showing an unusual aptitude for discovering, inventing or contriving.
 * Marked by originality, resourcefulness, and cleverness in conception or execution.
 
+NOTE: Do not confuse 'ingenious' with 'link:#_ingenuous[ingenuous]'.
+
 ==== Synonyms
 
 * Promethean

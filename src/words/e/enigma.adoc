@@ -1,0 +1,19 @@
+=== Enigma
+
+==== Meaning
+
+* Something hard to understand or explain.
+* Puzzling, hard to explain person.
+
+==== Synonyms
+
+* link:#_inscrutable[Inscrutable]
+* Puzzlement
+* Riddle
+
+==== Sentences
+
+* Despite the [.underline]#enigma# of the singularity, the big bang theory is unquestionably one of the most successful ideas in the history of science.
+* Many scholars call it the ultimate [.underline]#enigma# of the Nazi era, indeed perhaps of modern history: How did the Holocaust happen? And why in Germany?
+
+'''

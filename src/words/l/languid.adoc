@@ -1,0 +1,23 @@
+=== Languid
+
+==== Meaning
+
+* Drooping or flagging from or as if from exhaustion.
+* Lacking force or quickness of movement.
+
+==== Synonyms
+
+* link:#_lackadaisical[Lackadaisical]
+* link:#_enervate[Enervated]
+* link:#_languor[Languorous]
+* Slow
+* Listless
+* Weak
+
+==== Sentences
+
+* The entire film is like a lazy, [.underline]#languid# ballad performed by an ensemble of masters.
+* They proceeded at a [.underline]#languid# pace.
+* It was a hot, [.underline]#languid# summer day.
+
+'''

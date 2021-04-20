@@ -1,0 +1,21 @@
+=== Compunction
+
+==== Meaning
+
+* Anxiety arising from awareness of guilt.
+* Distress of mind over an anticipated action or result.
+* A twinge of misgiving.
+
+==== Synonyms
+
+* link:#_qualm[Qualm]
+* link:#_demur[Demur]
+* Remorse
+* Misgiving
+
+==== Sentences
+
+* She cheated without [.underline]#compunction#.
+* She showed no [.underline]#compunction# in planning devilish engines of destruction.
+
+'''

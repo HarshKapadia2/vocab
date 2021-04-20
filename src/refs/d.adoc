@@ -1,6 +1,7 @@
 include::../words/d/dearth.adoc[]
 include::../words/d/decorous.adoc[]
 include::../words/d/decry.adoc[]
+include::../words/d/deferential.adoc[]
 include::../words/d/defunct.adoc[]
 include::../words/d/deleterious.adoc[]
 include::../words/d/delineate.adoc[]

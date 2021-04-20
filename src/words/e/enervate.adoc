@@ -1,0 +1,21 @@
+=== Enervate
+
+==== Meaning
+
+* Lacking physical, mental or moral vigor.
+* To lessen the vitality or strength of.
+
+==== Synonyms
+
+* Dampen
+* Castrate
+* link:#_emasculate[Emasculate]
+* link:#_lackadaisical[Lackadaisical]
+* link:#_languid[Languid]
+
+==== Sentences
+
+* A lifetime of working in dreary jobs had [.underline]#enervated# her very soul.
+* The surgery really [.underline]#enervated# me for weeks afterwards.
+
+'''

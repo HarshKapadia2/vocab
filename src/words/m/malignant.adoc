@@ -1,0 +1,19 @@
+=== Malignant
+
+==== Meaning
+
+* Tending to produce death or deterioration.
+* Evil in nature, influence or effect.
+
+==== Synonyms
+
+* Malevolent
+* Mean
+* Spiteful
+
+==== Sentences
+
+* A highly [.underline]#malignant# form of cancer.
+* She had a powerful and [.underline]#malignant# influence.
+
+'''

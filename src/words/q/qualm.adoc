@@ -12,6 +12,7 @@
 * Scruple
 * Compunction
 * link:#_demur[Demur]
+* link:#_compunction[Compunction]
 
 ==== Sentences
 
