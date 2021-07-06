@@ -15,6 +15,6 @@
 
 ==== Sentences
 
-* She is a brighta nd [.underline]#affable# person, but every little success she has feels cheapened in comparison with her mother's overpowering accomplishments.
+* She is a bright and [.underline]#affable# person, but every little success she has feels cheapened in comparison with her mother's overpowering accomplishments.
 
 '''
